@@ -1,0 +1,140 @@
+######
+# TITLE: AS13789 Internap Network Services Corporation
+#  DATE: 27/05/2014
+#####
+
+# Private Customer
+  deny 66.150.195.0/24;
+
+# Tracx US, Inc.
+  deny 5.104.241.0/24;
+
+# ooVoo
+  deny 74.201.199.0/24;
+
+# Inap CouponCabin
+  deny 95.172.77.0/24;
+
+# Altaway Technologies, Inc.
+  deny 64.202.32.0/20;
+
+# Network and Communication Systems
+  deny 150.130.128.0/17;
+
+# Maxsip Telecom Corp
+  deny 199.19.184.0/22;
+  deny 199.19.187.0/24;
+
+# WhoTrades, Inc.
+  deny 74.217.48.0/24;
+
+# Patient Marketing Group, Inc.
+  deny 69.25.38.0/24;
+
+# iQor US Inc.
+  deny 199.127.144.0/24;
+
+# Zustek
+  deny 63.251.192.0/24;
+  deny 72.5.251.0/24;
+  deny 74.201.49.0/24;
+  deny 74.201.66.0/24;
+  deny 74.201.67.0/24;
+  deny 74.201.68.0/24;
+
+# Nuclearfallout Enterprises, Inc.
+  deny 74.91.116.0/24;
+  deny 74.91.123.0/24;
+  deny 192.223.24.0/24;
+  deny 192.223.27.0/24;
+  deny 192.223.31.0/24;
+
+# Pica9, Inc.
+  deny 64.74.246.0/24;
+
+# Provide Support
+  deny 74.201.144.0/24;
+
+# McAllister Towing & Transportation
+  deny 64.74.65.0/24;
+
+# Intercom Online
+  deny 66.128.192.0/24;
+  deny 66.128.193.0/24;
+  deny 66.128.194.0/24;
+  deny 66.128.195.0/24;
+  deny 66.128.196.0/24;
+  deny 66.128.197.0/24;
+  deny 66.128.198.0/24;
+  deny 66.128.199.0/24;
+  deny 66.128.200.0/24;
+  deny 66.128.201.0/24;
+  deny 66.128.202.0/24;
+  deny 66.128.203.0/24;
+  deny 66.128.204.0/24;
+  deny 66.128.205.0/24;
+  deny 66.128.206.0/24;
+
+# Force Capital Management LLC
+  deny 66.151.220.0/24;
+
+# First New York Securities
+  deny 216.223.36.0/24;
+
+# Sailthru, INC
+  deny 192.64.236.0/22;
+
+# Motorola - Semiconductor Products Division
+  deny 192.160.210.0/24;
+  deny 192.160.211.0/24;
+
+# Internap Network Services Corporation
+  deny 63.251.16.0/20;
+  deny 64.74.39.0/24;
+  deny 64.74.64.0/24;
+  deny 64.74.240.0/20;
+  deny 64.94.160.0/19;
+  deny 64.94.160.0/20;
+  deny 64.94.160.0/24;
+  deny 64.94.163.0/24;
+  deny 64.94.176.0/20;
+  deny 64.95.32.0/20;
+  deny 70.42.32.0/20;
+  deny 70.42.64.0/20;
+  deny 70.42.216.0/21;
+  deny 74.201.128.0/17;
+  deny 74.217.48.0/20;
+  deny 74.217.160.0/20;
+  deny 74.217.224.0/20;
+  deny 75.98.32.0/20;
+  deny 75.98.56.0/21;
+  deny 75.98.64.0/20;
+  deny 216.52.88.0/21;
+
+# King Street Capital Management, L.L.C
+  deny 66.150.79.0/24;
+
+# ZOHO Corporation
+  deny 74.201.112.0/23;
+  deny 74.201.112.0/24;
+
+# Dimension Capital Partners LLC
+  deny 72.5.42.0/24;
+  deny 72.5.43.0/24;
+
+# Third Point
+  deny 74.201.142.0/24;
+
+# 3P Learning (A team behind Mathletics).
+  deny 202.58.100.0/24;
+
+# Nuclear Fallout Enterprises
+  deny 63.251.20.0/24;
+  deny 66.150.121.0/24;
+  deny 70.42.74.0/24;
+
+# Motorola Inc.
+  deny 140.101.80.0/20;
+
+# Tiffany & Co
+  deny 72.5.130.0/24;

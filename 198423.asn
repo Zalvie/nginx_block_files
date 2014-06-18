@@ -1,0 +1,7 @@
+######
+# TITLE: AS198423 ResoLv SARL
+#  DATE: 15/06/2014
+#####
+
+# ResoLv SARL
+  deny 192.41.216.0/24;

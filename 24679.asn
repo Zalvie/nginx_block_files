@@ -1,0 +1,54 @@
+######
+# TITLE: AS24679 Hostway Deutschland GmbH
+#  DATE: 15/06/2014
+#####
+
+# affilinet GmbH
+  deny 46.18.184.0/24;
+  deny 46.18.191.0/24;
+  deny 195.189.236.0/23;
+
+# Virtual Private Servers
+  deny 84.40.13.0/24;
+
+# conHost GmbH
+  deny 195.238.252.0/24;
+
+# Windows Shared Hosting
+  deny 84.40.5.0/24;
+
+# Managed and Shared Services
+  deny 84.40.2.0/24;
+
+# NET-01
+  deny 94.100.136.0/21;
+
+# Hostway Deutschland GmbH
+  deny 81.3.0.0/19;
+  deny 83.246.32.0/19;
+  deny 83.246.64.0/18;
+  deny 193.201.52.0/22;
+  deny 193.238.228.0/22;
+  deny 195.47.229.0/24;
+  deny 217.195.35.0/24;
+
+# //SEIBERT/MEDIA GmbH
+  deny 81.3.45.0/24;
+
+# Dedicated Unmanaged Services
+  deny 84.40.1.0/24;
+
+# AdLINK Internet Media AG
+  deny 91.209.81.0/24;
+
+# Hostway UK Ltd
+  deny 66.232.129.0/24;
+  deny 66.232.130.0/23;
+  deny 66.232.133.0/24;
+  deny 66.232.134.0/23;
+
+# Hostway Ltd
+  deny 84.40.6.0/23;
+  deny 84.40.8.0/23;
+  deny 84.40.10.0/23;
+  deny 84.40.48.0/20;

@@ -1,0 +1,30 @@
+######
+# TITLE: AS15149 Access Integrated Technologies, Inc.
+#  DATE: 15/06/2014
+#####
+
+# Health Data Sciences Corporation
+  deny 157.231.0.0/16;
+  deny 157.232.0.0/19;
+  deny 157.232.32.0/19;
+  deny 157.232.64.0/19;
+  deny 157.232.96.0/19;
+  deny 157.232.128.0/19;
+  deny 157.232.160.0/19;
+
+# Sinep Corporation
+  deny 66.59.66.0/24;
+
+# Access Integrated Technologies, Inc.
+  deny 66.199.224.0/19;
+  deny 72.9.96.0/20;
+  deny 96.45.64.0/20;
+  deny 96.45.72.0/24;
+
+# Core Technology Services, Inc.
+  deny 162.252.36.0/22;
+  deny 162.254.224.0/21;
+
+# Essential Services
+  deny 216.150.64.0/20;
+  deny 216.169.96.0/19;

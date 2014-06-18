@@ -1,0 +1,7 @@
+######
+# TITLE: AS12931 IDKOM Networks GmbH, Kempten, Germany
+#  DATE: 15/06/2014
+#####
+
+# 213.182.0.0/19
+  deny 213.182.0.0/19;

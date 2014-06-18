@@ -1,0 +1,51 @@
+######
+# TITLE: AS23881 UDomain Web Hosting Company Ltd
+#  DATE: 15/06/2014
+#####
+
+# UDomain Web Hosting Co.Ltd
+  deny 103.15.180.0/24;
+  deny 103.19.27.0/24;
+
+# ONE HOSTING LIMITED
+  deny 103.19.24.0/24;
+  deny 103.19.25.0/24;
+  deny 103.19.26.0/24;
+
+# New Sky Internet Limited
+  deny 103.15.193.0/24;
+  deny 103.15.194.0/24;
+  deny 103.15.195.0/24;
+
+# - HKCIX -
+  deny 117.18.99.0/24;
+  deny 117.18.100.0/24;
+  deny 117.18.103.0/24;
+  deny 117.18.110.0/24;
+  deny 202.181.132.0/23;
+  deny 202.181.132.0/24;
+  deny 202.181.133.0/24;
+  deny 202.181.134.0/23;
+  deny 202.181.134.0/24;
+  deny 202.181.135.0/24;
+
+# UDomain Web Hosting Company Limited
+  deny 103.15.181.0/24;
+  deny 103.15.182.0/24;
+  deny 103.15.183.0/24;
+
+# 
+  deny 103.15.196.0/24;
+
+# NewSky Internet LIMITED
+  deny 103.15.192.0/24;
+  deny 203.90.224.0/24;
+  deny 203.90.225.0/24;
+  deny 203.90.226.0/24;
+  deny 203.90.227.0/24;
+  deny 203.90.228.0/24;
+  deny 203.90.229.0/24;
+  deny 203.90.230.0/24;
+  deny 203.90.252.0/24;
+  deny 203.90.253.0/24;
+  deny 203.90.254.0/24;

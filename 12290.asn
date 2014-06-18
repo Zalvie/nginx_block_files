@@ -1,0 +1,7 @@
+######
+# TITLE: AS12290 Exonetric Consulting Ltd
+#  DATE: 15/06/2014
+#####
+
+# Exonetric Consulting Ltd
+  deny 178.250.72.0/21;

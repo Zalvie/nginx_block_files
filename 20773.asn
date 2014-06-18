@@ -1,0 +1,52 @@
+######
+# TITLE: AS20773 Host Europe GmbH
+#  DATE: 15/06/2014
+#####
+
+# Webfusion Internet Solutions
+  deny 91.109.2.0/23;
+  deny 91.109.8.0/21;
+
+# yd. yourdelivery GmbH
+  deny 171.25.225.0/24;
+
+# ProSiebenSat.1 Games GmbH
+  deny 195.60.208.0/22;
+
+# Heart Internet Hybrid Servers
+  deny 91.109.2.0/24;
+
+# 37.218.248.0/22
+  deny 37.218.248.0/22;
+
+# irrsinn.de GmbH
+  deny 134.97.4.0/24;
+
+# MobiMedia AG
+  deny 195.128.20.0/22;
+
+# Host Europe GmbH
+  deny 5.35.224.0/19;
+  deny 5.175.0.0/19;
+  deny 37.61.192.0/19;
+  deny 46.163.64.0/18;
+  deny 80.237.128.0/17;
+  deny 80.246.48.0/20;
+  deny 83.169.0.0/18;
+  deny 85.119.152.0/21;
+  deny 87.230.0.0/17;
+  deny 88.80.192.0/19;
+  deny 91.250.64.0/18;
+  deny 92.51.128.0/18;
+  deny 93.92.144.0/21;
+  deny 94.199.240.0/21;
+  deny 176.28.0.0/18;
+  deny 178.77.64.0/18;
+  deny 195.225.104.0/22;
+  deny 217.115.128.0/19;
+
+# 
+  deny 146.0.10.0/24;
+
+# 123-Reg Root Servers
+  deny 212.48.82.0/23;

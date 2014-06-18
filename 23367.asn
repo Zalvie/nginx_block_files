@@ -1,0 +1,19 @@
+######
+# TITLE: AS23367 Genesis Adaptive, INC.
+#  DATE: 15/05/2014
+#####
+
+# ServerGurus, LLC
+  deny 64.250.114.0/24;
+  deny 64.250.115.0/24;
+
+# Green Value Hosting, Inc.
+  deny 107.150.27.0/24;
+
+# Genesis Adaptive, INC.
+  deny 64.250.112.0/20;
+  deny 64.250.112.0/21;
+  deny 64.250.112.0/24;
+  deny 64.250.119.0/24;
+  deny 64.250.120.0/22;
+  deny 64.250.126.0/23;

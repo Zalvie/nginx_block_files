@@ -1,0 +1,13 @@
+######
+# TITLE: AS17920 Ultra Serve Internet Pty Ltd - Transit AS - Hosting Provider,
+#  DATE: 15/06/2014
+#####
+
+# Union Roth Capital Ltd
+  deny 203.17.208.0/22;
+
+# Ultra Serve Internet Pty Ltd
+  deny 113.192.0.0/18;
+  deny 113.192.56.0/21;
+  deny 203.145.32.0/19;
+  deny 203.145.62.0/23;

@@ -1,0 +1,29 @@
+######
+# TITLE: AS12566 Societe Francaise du Radiotelephone S.A.
+#  DATE: 15/06/2014
+#####
+
+# Canal Plus France SA
+  deny 194.4.242.0/24;
+  deny 194.4.246.0/24;
+
+# European Regional Registry
+  deny 194.4.244.0/23;
+
+# Societe Francaise du Radiotelephone -SFR S.A.
+  deny 194.153.88.0/23;
+  deny 194.153.89.0/24;
+  deny 194.153.90.0/24;
+  deny 194.153.97.0/24;
+
+# 87.255.128.0/19
+  deny 87.255.128.0/19;
+
+# 212.23.160.0/19
+  deny 212.23.160.0/19;
+
+# Societe Francaise du Radiotelephone -SFR S.A
+  deny 194.153.92.0/24;
+
+# Numergy SAS
+  deny 185.39.216.0/22;

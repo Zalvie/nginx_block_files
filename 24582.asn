@@ -1,0 +1,13 @@
+######
+# TITLE: AS24582 synaix Gesellschaft fuer angewandte Informations-Technologien mbH
+#  DATE: 15/06/2014
+#####
+
+# Synaix IT GmbH
+  deny 5.61.80.0/21;
+  deny 5.61.83.0/24;
+  deny 80.87.160.0/20;
+  deny 185.32.32.0/22;
+
+# travel-IT GmbH & Co. KG
+  deny 91.216.13.0/24;

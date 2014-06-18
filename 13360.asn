@@ -1,0 +1,15 @@
+######
+# TITLE: AS13360 Triton Digital
+#  DATE: 15/06/2014
+#####
+
+# Triton Digital
+  deny 192.173.28.0/24;
+  deny 208.80.52.0/23;
+  deny 208.92.52.0/24;
+  deny 208.92.53.0/24;
+  deny 208.92.54.0/24;
+  deny 208.92.55.0/24;
+
+# StreamTheWorld
+  deny 208.80.54.0/23;

@@ -1,0 +1,13 @@
+######
+# TITLE: AS15497 Internet Data Center "ColoCALL"
+#  DATE: 15/06/2014
+#####
+
+# Colocall Ltd.
+  deny 31.24.208.0/21;
+  deny 31.28.160.0/19;
+  deny 62.149.0.0/19;
+
+# Company Unlim Ltd.
+  deny 91.236.118.0/24;
+  deny 91.236.119.0/24;

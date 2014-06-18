@@ -1,0 +1,85 @@
+######
+# TITLE: AS13213 UK2 - Ltd
+#  DATE: 15/06/2014
+#####
+
+# IntelliSoft Corporation
+  deny 192.222.112.0/22;
+
+# GS Systems Ltd.
+  deny 193.150.8.0/24;
+  deny 193.150.9.0/24;
+  deny 193.150.10.0/24;
+  deny 193.150.11.0/24;
+
+# Virtual Internet (UK) Limited
+  deny 46.28.48.0/21;
+
+# Wide Area Communications Ltd
+  deny 194.70.234.0/24;
+
+# UK2, VPS.net
+  deny 46.23.72.0/21;
+
+# UK2 Infrastructure
+  deny 37.123.112.0/24;
+  deny 37.123.113.0/24;
+  deny 37.123.115.0/24;
+  deny 77.92.77.0/24;
+  deny 91.109.245.0/24;
+  deny 109.123.66.0/24;
+  deny 109.123.80.0/24;
+  deny 176.67.168.0/24;
+  deny 176.67.169.0/24;
+  deny 176.67.170.0/24;
+  deny 176.67.172.0/24;
+
+# Hosting Services Inc
+  deny 37.130.225.0/24;
+  deny 37.130.226.0/23;
+  deny 37.130.228.0/22;
+  deny 146.185.16.0/20;
+  deny 146.185.31.0/24;
+  deny 185.2.136.0/22;
+
+# ICUK Computing Services Limited
+  deny 185.35.148.0/22;
+
+# Internet on Demand Ltd
+  deny 83.142.48.0/24;
+  deny 83.142.49.0/24;
+
+# UK2 - Ltd
+  deny 37.123.112.0/21;
+  deny 46.23.64.0/21;
+  deny 77.92.64.0/19;
+  deny 83.170.64.0/18;
+  deny 91.109.240.0/21;
+  deny 91.109.246.0/24;
+  deny 109.123.64.0/18;
+  deny 176.67.160.0/20;
+
+# London net
+  deny 185.38.184.0/24;
+
+# Unicenter Internet
+  deny 213.108.31.0/24;
+
+# UK2Net Assigned Subnet
+  deny 213.232.110.0/24;
+
+# Landis Holdings Inc
+  deny 185.9.50.0/23;
+
+# Secure Internet LLC
+  deny 192.253.241.0/24;
+
+# 190.105.192.0/24
+  deny 190.105.192.0/24;
+
+# Motah Ltd
+  deny 91.195.192.0/23;
+  deny 91.195.192.0/24;
+
+# ARBINET Customer Subnet
+  deny 213.232.92.0/22;

@@ -1,0 +1,90 @@
+######
+# TITLE: AS12182 Internap Network Services Corporation
+#  DATE: 27/05/2014
+#####
+
+# Fluid Consulting
+  deny 64.74.171.0/24;
+
+# Nuclearfallout Enterprises, Inc.
+  deny 74.91.118.0/24;
+
+# 2wire
+  deny 216.52.29.0/24;
+
+# ZOHO Corporation
+  deny 74.201.112.0/23;
+  deny 74.201.113.0/24;
+
+# Scheduling.com
+  deny 64.95.136.0/24;
+
+# Symmetricom
+  deny 69.25.96.0/22;
+
+# Osiris Communications, Inc.
+  deny 74.116.112.0/21;
+  deny 208.64.56.0/21;
+
+# Perfect World
+  deny 66.151.133.0/24;
+
+# Private Customer
+  deny 23.92.187.0/24;
+
+# Enporion, Inc.
+  deny 63.251.225.0/24;
+
+# 
+  deny 75.98.85.0/24;
+
+# Skyhigh Networks
+  deny 64.74.170.0/24;
+
+# Heartflow
+  deny 64.74.214.0/24;
+
+# Discount Bandwidth Options
+  deny 74.217.28.0/22;
+
+# Provident Funding
+  deny 63.251.233.0/24;
+
+# Nuclear Fallout Enterprises
+  deny 66.151.138.0/24;
+
+# Stratogent LLC
+  deny 74.118.48.0/22;
+
+# Mosaic Networx
+  deny 74.201.18.0/24;
+
+# Internap Network Services Corporation
+  deny 23.92.184.0/22;
+  deny 63.251.100.0/22;
+  deny 64.74.128.0/20;
+  deny 64.74.208.0/20;
+  deny 64.95.140.0/22;
+  deny 66.79.143.0/24;
+  deny 66.151.128.0/20;
+  deny 66.151.144.0/20;
+  deny 69.25.56.0/21;
+  deny 70.42.128.0/20;
+  deny 70.42.240.0/20;
+  deny 72.5.64.0/20;
+  deny 72.5.224.0/21;
+  deny 74.201.80.0/20;
+  deny 74.201.112.0/20;
+  deny 74.217.64.0/20;
+  deny 74.217.96.0/20;
+  deny 74.217.208.0/20;
+  deny 75.98.0.0/20;
+  deny 75.98.80.0/20;
+  deny 107.150.144.0/21;
+
+# BroadSoft, Inc.
+  deny 199.19.195.0/24;
+
+# Tier 1 Services, Inc. DBA Tier 1 Solutions
+  deny 72.5.3.0/24;
+  deny 72.5.233.0/24;

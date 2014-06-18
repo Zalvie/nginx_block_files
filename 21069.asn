@@ -1,0 +1,10 @@
+######
+# TITLE: AS21069 METANET AG, Switzerland
+#  DATE: 15/06/2014
+#####
+
+# METANET AG
+  deny 46.231.200.0/21;
+  deny 80.74.128.0/20;
+  deny 80.74.144.0/20;
+  deny 94.126.16.0/21;

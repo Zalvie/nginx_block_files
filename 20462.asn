@@ -1,0 +1,23 @@
+######
+# TITLE: AS20462 ESI
+#  DATE: 05/05/2014
+#####
+
+# Hoyos International
+  deny 198.55.16.0/21;
+  deny 198.55.24.0/23;
+
+# BPSNode.com
+  deny 190.102.100.0/22;
+  deny 190.102.112.0/20;
+
+# PrimeTel Services Inc.
+  deny 181.41.4.0/22;
+  deny 181.41.8.0/21;
+  deny 181.41.16.0/20;
+  deny 181.41.32.0/19;
+  deny 181.41.64.0/18;
+  deny 190.124.40.0/22;
+
+# SunTelecom LTD
+  deny 181.192.96.0/19;

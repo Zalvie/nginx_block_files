@@ -1,0 +1,16 @@
+######
+# TITLE: AS24381 Web Hosting and Colocation Services
+#  DATE: 15/06/2014
+#####
+
+# FAST HIT
+  deny 61.8.176.0/20;
+  deny 61.8.184.0/21;
+  deny 116.50.16.0/21;
+  deny 116.50.16.0/23;
+
+# Proctors Administration Pty Ltd
+  deny 203.25.143.0/24;
+
+# FAST.hit Web Hosting
+  deny 202.53.4.0/22;

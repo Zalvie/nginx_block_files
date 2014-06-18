@@ -1,0 +1,21 @@
+######
+# TITLE: AS21392 MuntInternet Networks B.V.
+#  DATE: 15/06/2014
+#####
+
+# Bouwmeester Groep B.V.
+  deny 194.50.112.0/24;
+
+# DIALix Pty. Ltd.
+  deny 203.12.1.0/24;
+
+# AMS-E 5.152.178.0/24
+  deny 5.152.178.0/24;
+
+# MuntInternet Networks B.V.
+  deny 85.255.208.0/21;
+  deny 85.255.216.0/21;
+  deny 193.239.88.0/22;
+
+# Web2All B.V.
+  deny 195.189.124.0/22;

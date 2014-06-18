@@ -1,0 +1,11 @@
+######
+# TITLE: AS25061 Associated Networks Limited
+#  DATE: 15/06/2014
+#####
+
+# Associated Networks Limited
+  deny 80.250.96.0/20;
+  deny 81.91.96.0/20;
+
+# Telecom Plus PLC
+  deny 91.217.237.0/24;

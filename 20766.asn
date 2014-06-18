@@ -1,0 +1,7 @@
+######
+# TITLE: AS20766 Association "Gitoyen"
+#  DATE: 15/06/2014
+#####
+
+# Association "Gitoyen"
+  deny 80.67.160.0/19;

@@ -1,0 +1,92 @@
+######
+# TITLE: AS12179 Internap Network Services Corporation
+#  DATE: 27/05/2014
+#####
+
+# Salem Communications
+  deny 72.5.186.0/24;
+
+# BRPS, LLC
+  deny 199.244.255.0/24;
+
+# Cologlobal
+  deny 67.22.128.0/20;
+  deny 69.42.48.0/21;
+  deny 96.125.176.0/22;
+  deny 96.125.180.0/23;
+  deny 96.125.188.0/22;
+  deny 208.77.156.0/22;
+
+# Reliant Web Hosting
+  deny 64.7.217.0/24;
+  deny 74.201.58.0/24;
+
+# Nuclearfallout Enterprises, Inc.
+  deny 74.91.114.0/24;
+  deny 74.91.120.0/24;
+  deny 74.91.126.0/24;
+  deny 162.248.91.0/24;
+  deny 192.223.29.0/24;
+
+# Viewsonic
+  deny 107.150.139.0/24;
+
+# Glick Interactive
+  deny 64.250.187.0/24;
+
+# Morningstar, Inc.
+  deny 216.228.228.0/23;
+  deny 216.228.236.0/23;
+
+# Private Customer
+  deny 63.251.34.0/24;
+  deny 63.251.46.0/23;
+  deny 66.150.219.0/24;
+  deny 66.151.172.0/24;
+  deny 72.5.187.0/24;
+  deny 72.5.188.0/24;
+  deny 162.217.14.0/24;
+  deny 206.191.164.0/22;
+
+# Ionity Corporation
+  deny 192.65.241.0/24;
+
+# Nuclear Fallout Enterprises
+  deny 66.150.214.0/24;
+  deny 66.151.244.0/24;
+  deny 74.201.57.0/24;
+
+# Internap Network Services
+  deny 72.5.185.0/24;
+
+# Supreme Servers
+  deny 162.252.168.0/24;
+
+# BNY Services Corp.
+  deny 107.150.142.0/24;
+
+# Internap Network Services Corporation
+  deny 63.251.32.0/20;
+  deny 63.251.40.0/21;
+  deny 63.251.45.0/24;
+  deny 64.7.216.0/22;
+  deny 66.150.208.0/20;
+  deny 66.151.160.0/23;
+  deny 66.151.174.0/23;
+  deny 66.151.240.0/20;
+  deny 72.5.184.0/21;
+  deny 72.5.184.0/24;
+  deny 72.5.248.0/21;
+  deny 74.201.48.0/20;
+  deny 74.201.52.0/24;
+  deny 75.98.48.0/21;
+  deny 107.150.136.0/21;
+  deny 107.150.136.0/23;
+  deny 162.217.12.0/22;
+  deny 199.21.76.0/22;
+  deny 199.244.252.0/22;
+  deny 216.52.176.0/20;
+
+# 
+  deny 64.7.216.0/24;
+  deny 107.150.143.0/24;

@@ -1,0 +1,7 @@
+######
+# TITLE: AS132597 Defoe Chan & Company (Hong Kong) Limited
+#  DATE: 21/05/2014
+#####
+
+# 123 Sam Tung Uk Village
+  deny 103.16.26.0/23;

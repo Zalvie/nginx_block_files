@@ -1,0 +1,7 @@
+######
+# TITLE: AS15041 ETRN.com, Inc.
+#  DATE: 15/06/2014
+#####
+
+# ETRN.com, Inc.
+  deny 204.62.28.0/22;

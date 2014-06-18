@@ -1,0 +1,95 @@
+######
+# TITLE: AS19024 Internap Network Services Corporation
+#  DATE: 27/05/2014
+#####
+
+# Nuclearfallout Enterprises, Inc.
+  deny 72.5.195.0/24;
+  deny 74.91.113.0/24;
+  deny 74.91.115.0/24;
+  deny 74.91.119.0/24;
+  deny 74.91.122.0/24;
+  deny 74.91.124.0/24;
+  deny 74.91.125.0/24;
+  deny 162.248.88.0/24;
+  deny 162.248.92.0/24;
+  deny 192.223.26.0/24;
+  deny 192.223.30.0/24;
+
+# Equitec
+  deny 64.74.236.0/24;
+
+# William Blair & Company
+  deny 216.52.142.0/24;
+
+# Ansell Healthcare
+  deny 72.5.85.0/24;
+
+# VPS Datacenter, LLC
+  deny 67.20.50.0/23;
+  deny 67.20.52.0/24;
+  deny 67.20.53.0/24;
+  deny 67.20.57.0/24;
+  deny 67.20.58.0/24;
+  deny 67.20.61.0/24;
+  deny 67.20.62.0/24;
+  deny 72.44.88.0/24;
+  deny 72.44.89.0/24;
+  deny 72.44.90.0/23;
+  deny 72.44.93.0/24;
+  deny 72.44.94.0/24;
+  deny 72.44.95.0/24;
+  deny 173.249.144.0/24;
+  deny 173.249.145.0/24;
+  deny 173.249.149.0/24;
+  deny 173.249.150.0/24;
+  deny 173.249.151.0/24;
+  deny 173.249.152.0/24;
+  deny 199.48.252.0/24;
+  deny 199.48.253.0/24;
+  deny 199.48.254.0/24;
+  deny 199.48.255.0/24;
+  deny 208.100.7.0/24;
+  deny 208.100.55.0/24;
+  deny 208.100.59.0/24;
+
+# Harris Associates
+  deny 64.95.92.0/24;
+
+# Farr Financial, Inc.
+  deny 208.95.255.0/24;
+
+# Nuclear Fallout Enterprises
+  deny 64.74.97.0/24;
+  deny 216.52.143.0/24;
+  deny 216.52.148.0/24;
+
+# EX
+  deny 74.217.12.0/24;
+
+# LOGMEIN, INC.
+  deny 64.74.103.0/24;
+  deny 64.94.46.0/23;
+
+# Internap Network Services Corporation
+  deny 64.74.96.0/20;
+  deny 64.74.224.0/20;
+  deny 64.94.32.0/20;
+  deny 66.150.96.0/20;
+  deny 66.151.0.0/19;
+  deny 66.151.16.0/20;
+  deny 66.151.24.0/24;
+  deny 69.25.144.0/20;
+  deny 69.25.240.0/20;
+  deny 70.42.80.0/20;
+  deny 72.5.192.0/21;
+  deny 72.5.200.0/21;
+  deny 74.201.0.0/20;
+  deny 74.217.0.0/20;
+
+# Blue Cross Blue Shield
+  deny 64.94.42.0/24;
+  deny 69.25.144.0/24;
+
+# Inap CouponCabin
+  deny 95.172.76.0/24;

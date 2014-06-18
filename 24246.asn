@@ -1,0 +1,15 @@
+######
+# TITLE: AS24246 Internap Network Services
+#  DATE: 27/05/2014
+#####
+
+# Texas Instruments
+  deny 192.163.20.0/24;
+
+# Internap Network Services (HK) Co. Ltd.
+  deny 119.59.72.0/21;
+  deny 202.56.8.0/21;
+  deny 203.190.120.0/21;
+
+# thomson
+  deny 119.59.76.0/24;

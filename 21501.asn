@@ -1,0 +1,29 @@
+######
+# TITLE: AS21501 Mainlab GmbH
+#  DATE: 15/06/2014
+#####
+
+# 89.19.224.0/19
+  deny 89.19.224.0/19;
+
+# Viprinet Europe GmbH
+  deny 46.19.152.0/21;
+  deny 89.207.248.0/21;
+
+# Keynote Systems Inc
+  deny 195.66.102.0/24;
+
+# 46.22.32.0/20
+  deny 46.22.32.0/20;
+
+# GigaCodes GmbH
+  deny 83.142.128.0/21;
+
+# dng IT GbR
+  deny 109.234.248.0/21;
+
+# TraSec GmbH
+  deny 5.1.120.0/21;
+
+# 80.242.128.0/19
+  deny 80.242.128.0/19;

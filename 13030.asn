@@ -1,0 +1,84 @@
+######
+# TITLE: AS13030 Init Seven AG
+#  DATE: 23/05/2014
+#####
+
+# Ready Technology (UK) Limited
+  deny 195.8.117.0/24;
+
+# ARONET GmbH
+  deny 185.35.28.0/22;
+
+# Zattoo Europa AG
+  deny 91.123.106.0/24;
+  deny 91.123.108.0/23;
+  deny 91.123.111.0/24;
+
+# Netex AG
+  deny 194.9.34.0/24;
+  deny 194.9.35.0/24;
+
+# Automatic Server AG
+  deny 178.250.128.0/21;
+
+# ProSolution AG
+  deny 195.211.32.0/22;
+
+# Serwise AG
+  deny 91.198.154.0/24;
+
+# Walter Bickel GmbH
+  deny 195.8.210.0/23;
+
+# Jelmoli AG
+  deny 193.223.80.0/20;
+
+# Bitec Elektronic&Software; GmbH
+  deny 193.222.255.0/24;
+
+# Antesa AG
+  deny 185.11.168.0/22;
+
+# Xariffusion Informatik & Telecom
+  deny 91.209.98.0/24;
+
+# ETAVISGNS AG
+  deny 193.104.148.0/24;
+
+# Examedia GmbH
+  deny 193.47.153.0/24;
+
+# PDS Preclinical Data Services AG
+  deny 91.198.8.0/24;
+
+# Ergon Informatik AG
+  deny 87.239.208.0/21;
+
+# Init7 (Germany) GmbH
+  deny 37.17.232.0/22;
+  deny 37.17.236.0/23;
+  deny 37.17.238.0/23;
+
+# Init Seven AG
+  deny 77.109.128.0/18;
+  deny 77.109.128.0/19;
+  deny 77.109.160.0/19;
+  deny 77.109.168.0/21;
+  deny 82.197.160.0/19;
+  deny 82.197.160.0/20;
+  deny 82.197.176.0/20;
+  deny 212.51.128.0/19;
+  deny 212.51.128.0/20;
+  deny 212.51.144.0/20;
+  deny 213.144.128.0/19;
+  deny 213.144.128.0/20;
+  deny 213.144.144.0/20;
+
+# Init7 America LLC
+  deny 64.35.8.0/22;
+
+# Berufsschule fuer Gestaltung Zuerich is a
+  deny 195.162.160.0/24;
+
+# Alentus Corporation
+  deny 216.185.39.0/24;

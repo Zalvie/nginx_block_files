@@ -1,0 +1,33 @@
+######
+# TITLE: AS21345 MessageLabs
+#  DATE: 15/06/2014
+#####
+
+# MessageLabs Limited
+  deny 85.158.138.0/24;
+  deny 85.158.139.0/24;
+  deny 85.158.140.0/23;
+  deny 85.158.142.0/24;
+  deny 95.131.104.0/23;
+  deny 194.106.220.0/23;
+  deny 195.245.230.0/24;
+  deny 195.245.231.0/24;
+
+# Messagelabs European Network
+  deny 193.109.254.0/23;
+
+# Messagelabs Limited
+  deny 46.226.48.0/24;
+  deny 85.158.136.0/24;
+  deny 85.158.137.0/24;
+  deny 85.158.143.0/24;
+  deny 95.131.106.0/23;
+  deny 95.131.108.0/23;
+  deny 95.131.110.0/24;
+  deny 95.131.111.0/24;
+
+# Symantec.cloud Stockholm 1
+  deny 46.226.50.0/24;
+
+# Internet Solutions
+  deny 196.14.170.0/23;

@@ -1,0 +1,8 @@
+######
+# TITLE: AS19148 LiveWorld, inc.
+#  DATE: 15/06/2014
+#####
+
+# LiveWorld, inc.
+  deny 208.64.132.0/22;
+  deny 208.82.72.0/22;

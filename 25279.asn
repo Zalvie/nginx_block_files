@@ -1,0 +1,10 @@
+######
+# TITLE: AS25279 Treml-Sturm Datentechnik GmbH
+#  DATE: 15/06/2014
+#####
+
+# Treml+Sturm Datentechnik GmbH
+  deny 217.68.0.0/20;
+  deny 217.68.13.0/24;
+  deny 217.68.14.0/24;
+  deny 217.68.15.0/24;

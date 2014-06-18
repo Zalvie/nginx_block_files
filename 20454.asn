@@ -1,0 +1,51 @@
+######
+# TITLE: AS20454 SECURED SERVERS LLC
+#  DATE: 27/05/2014
+#####
+
+# Namecheap, Inc.
+  deny 162.213.252.0/24;
+  deny 162.213.254.0/23;
+
+# Internet Commerce Group
+  deny 216.75.104.0/21;
+
+# Laz Apostolis
+  deny 64.38.230.0/24;
+
+# ECSuite, LLC
+  deny 69.160.32.0/20;
+
+# Discovery Networks International Inc.
+  deny 209.50.48.0/20;
+
+# GIGLINX, Inc
+  deny 8.10.160.0/23;
+  deny 64.154.4.0/22;
+
+# SECURED SERVERS LLC
+  deny 23.235.240.0/21;
+  deny 23.235.245.0/24;
+  deny 23.235.246.0/24;
+  deny 23.235.247.0/24;
+  deny 23.235.248.0/24;
+  deny 23.235.249.0/24;
+  deny 66.85.128.0/18;
+  deny 108.170.0.0/18;
+  deny 174.138.160.0/20;
+  deny 184.95.32.0/19;
+  deny 184.164.128.0/19;
+  deny 184.171.160.0/20;
+  deny 192.198.192.0/21;
+  deny 192.198.200.0/22;
+  deny 198.15.64.0/18;
+  deny 198.24.128.0/19;
+  deny 209.188.0.0/19;
+
+# CWIE, LLC
+  deny 63.214.164.0/22;
+  deny 64.38.192.0/18;
+  deny 67.30.132.0/22;
+
+# Vicidiem Inc.
+  deny 192.84.48.0/23;

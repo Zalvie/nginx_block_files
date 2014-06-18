@@ -1,0 +1,11 @@
+######
+# TITLE: AS20969  of Technicolor NL (formerly NOB)
+#  DATE: 15/06/2014
+#####
+
+# Quadrem Netherlands B.V
+  deny 91.195.243.0/24;
+
+# NOB
+  deny 77.243.160.0/20;
+  deny 80.79.32.0/20;

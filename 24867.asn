@@ -1,0 +1,172 @@
+######
+# TITLE: AS24867 Adapt Services Ltd
+#  DATE: 15/06/2014
+#####
+
+# 82.211.106.0/23
+  deny 82.211.106.0/23;
+
+# 85.133.80.0/20
+  deny 85.133.80.0/20;
+
+# Trident Net Limited
+  deny 193.19.156.0/23;
+  deny 193.19.158.0/24;
+
+# Centric Telecom Limited
+  deny 83.217.96.0/19;
+  deny 217.150.96.0/19;
+
+# IMS Health, Inc.
+  deny 162.44.224.0/24;
+  deny 162.44.225.0/24;
+
+# 85.133.96.0/20
+  deny 85.133.96.0/20;
+
+# Adapt
+  deny 64.246.70.0/23;
+  deny 64.246.92.0/23;
+  deny 66.9.35.0/24;
+  deny 66.9.48.0/23;
+  deny 66.9.50.0/23;
+  deny 66.9.52.0/23;
+  deny 66.9.80.0/23;
+  deny 66.9.91.0/24;
+  deny 66.9.93.0/24;
+  deny 66.9.160.0/23;
+  deny 66.9.194.0/23;
+  deny 66.9.196.0/23;
+  deny 66.9.236.0/23;
+  deny 66.9.241.0/24;
+  deny 66.9.244.0/24;
+  deny 160.79.16.0/23;
+  deny 160.79.109.0/24;
+  deny 160.79.134.0/23;
+  deny 160.79.142.0/23;
+  deny 160.79.195.0/24;
+  deny 160.79.214.0/23;
+  deny 160.79.240.0/23;
+  deny 160.79.243.0/24;
+  deny 160.79.244.0/23;
+
+# Open GI Limited
+  deny 91.198.99.0/24;
+
+# Hyve Ltd
+  deny 5.57.62.0/24;
+  deny 5.57.63.0/24;
+  deny 188.65.32.0/21;
+
+# Tarsus Exhibitions and Publishing Limited
+  deny 193.108.191.0/24;
+
+# 62.140.218.0/24
+  deny 62.140.218.0/24;
+
+# 85.133.64.0/20
+  deny 85.133.64.0/20;
+
+# 82.211.80.0/20
+  deny 82.211.80.0/20;
+
+# QMS Infrastructure
+  deny 83.138.56.0/24;
+
+# HYPRIVCLOUD2
+  deny 5.57.57.0/24;
+
+# IntelliSpace (UK) Ltd
+  deny 80.83.144.0/20;
+  deny 88.211.192.0/18;
+
+# eLINIA WebServices Ltd
+  deny 91.198.29.0/24;
+
+# HYPRIVCLOUD2-1
+  deny 5.57.58.0/24;
+
+# 82.211.96.0/23
+  deny 82.211.96.0/23;
+
+# HYPRIVDEDI
+  deny 5.57.56.0/24;
+
+# The Energy Saving Trust Ltd
+  deny 193.24.28.0/24;
+
+# 
+  deny 185.35.248.0/22;
+
+# Lovefilm International Ltd.
+  deny 194.117.248.0/23;
+
+# Liberata IT Solutions Limited
+  deny 141.8.216.0/21;
+  deny 193.142.119.0/24;
+
+# 82.211.64.0/20
+  deny 82.211.64.0/20;
+
+# 85.133.0.0/17
+  deny 85.133.0.0/17;
+
+# 85.133.32.0/19
+  deny 85.133.32.0/19;
+
+# iHUB UK Limited
+  deny 194.0.147.0/24;
+
+# HYPRIVCLOUD2-3
+  deny 5.57.59.0/24;
+  deny 5.57.60.0/24;
+  deny 5.57.61.0/24;
+
+# eLINIA Webservices Ltd
+  deny 91.199.19.0/24;
+
+# Servcorp SmartOffice
+  deny 61.28.198.0/24;
+
+# Nomad Digital Limited
+  deny 78.40.152.0/21;
+
+# elinia webservices LTD
+  deny 193.105.194.0/24;
+
+# 82.211.112.0/20
+  deny 82.211.112.0/20;
+
+# 62.140.192.0/19
+  deny 62.140.192.0/19;
+
+# 82.211.108.0/22
+  deny 82.211.108.0/22;
+
+# Kroll Ltd
+  deny 193.37.237.0/24;
+
+# 82.211.99.0/24
+  deny 82.211.99.0/24;
+
+# 62.140.217.0/24
+  deny 62.140.217.0/24;
+
+# Hermes Fund Managers Limited
+  deny 194.33.28.0/24;
+  deny 194.34.11.0/24;
+
+# 82.211.104.0/23
+  deny 82.211.104.0/23;
+
+# 82.211.64.0/18
+  deny 82.211.64.0/18;
+
+# 85.133.16.0/20
+  deny 85.133.16.0/20;
+
+# 85.133.0.0/20
+  deny 85.133.0.0/20;
+
+# 85.133.120.0/21
+  deny 85.133.120.0/21;

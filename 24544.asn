@@ -1,0 +1,58 @@
+######
+# TITLE: AS24544 Pang International Limited-AS number
+#  DATE: 27/05/2014
+#####
+
+# UNIT17 9/F TOWER
+  deny 103.240.180.0/22;
+  deny 103.242.0.0/22;
+
+# Next Generation Network For GigeLayer Hong Kong CN2 BGP Data Center
+  deny 192.151.224.0/23;
+  deny 192.151.230.0/23;
+  deny 192.151.240.0/22;
+  deny 192.161.90.0/23;
+
+# No.9-F, CaiFuDaSha, No.396 Heping Road
+  deny 103.242.132.0/22;
+
+# FLAT B07,23/F HOVER IND BLDG NO.26-38 KWAI CHEONG RD NT
+  deny 103.243.128.0/22;
+
+# unit 708 level 7 dragon center
+  deny 103.226.124.0/22;
+
+# 26C,No.666,Gonghexin road,Shanghai,China
+  deny 103.243.24.0/22;
+
+# zbusa LLC
+  deny 192.225.230.0/23;
+
+# 205A-205B,
+  deny 103.24.0.0/22;
+
+# #2 of Group 1, Lingshan,
+  deny 103.224.80.0/22;
+
+# UnitE15, 3/F., Wing Tat Commercial Building,
+  deny 103.30.40.0/22;
+
+# Pang International Limited
+  deny 103.246.244.0/22;
+  deny 122.10.80.0/20;
+  deny 122.10.112.0/21;
+  deny 123.108.108.0/22;
+  deny 123.254.104.0/21;
+  deny 182.237.0.0/22;
+
+# Roan 900
+  deny 103.21.136.0/22;
+
+# HK Colocation 1318-19 Holloywood Plaza
+  deny 103.244.88.0/22;
+
+# FLAT B07.23/F HOVER IND BLDG NO.26-38 KWAI CHEONG RD
+  deny 103.241.48.0/22;
+
+# 
+  deny 103.229.124.0/22;

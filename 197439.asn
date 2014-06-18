@@ -1,0 +1,7 @@
+######
+# TITLE: AS197439 Sylon Hosting GmbH
+#  DATE: 15/06/2014
+#####
+
+# Sylon Hosting GmbH
+  deny 194.88.212.0/23;

@@ -1,0 +1,7 @@
+######
+# TITLE: AS21476 all-connect Data Communications GmbH
+#  DATE: 15/06/2014
+#####
+
+# all-connect Data Communications GmbH
+  deny 80.254.128.0/20;

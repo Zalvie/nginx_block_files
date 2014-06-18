@@ -1,0 +1,263 @@
+######
+# TITLE: AS17819 Equinix Asia Pacific
+#  DATE: 15/06/2014
+#####
+
+# OFLOXACIN-NET-TH
+  deny 103.13.214.0/24;
+  deny 103.13.215.0/24;
+
+# SurrenderOnline
+  deny 202.167.231.0/24;
+
+# Ocean Estate Investments Limited
+  deny 103.244.224.0/22;
+
+# Micro 2000 Ltd.
+  deny 202.53.141.0/24;
+
+# Arcadia Technology
+  deny 203.34.235.0/24;
+
+# Cluster Technology Limited
+  deny 103.31.20.0/23;
+
+# Telligence, Web Hosting, Newcastle, Australia
+  deny 203.99.146.0/23;
+
+# The Boeing Company
+  deny 192.48.23.0/24;
+
+# INTERCOMPO CO.,LTD.
+  deny 216.179.142.0/23;
+
+# 5th Floor
+  deny 122.50.127.0/24;
+  deny 202.167.250.0/24;
+
+# First Focus Pty Ltd
+  deny 180.189.140.0/22;
+
+# CLARITY OSS LIMITED
+  deny 202.147.64.0/19;
+  deny 202.147.74.0/23;
+
+# APN4
+  deny 103.3.18.0/24;
+
+# ISWKNet01
+  deny 101.0.28.0/24;
+
+# COOL-COM-JP
+  deny 103.9.92.0/24;
+
+# Equinix Australia Pty Ltd
+  deny 27.111.240.0/20;
+  deny 103.13.68.0/22;
+  deny 202.177.208.0/22;
+  deny 202.177.211.0/24;
+  deny 202.177.212.0/22;
+  deny 202.177.216.0/24;
+  deny 202.177.217.0/24;
+  deny 202.177.221.0/24;
+  deny 202.177.222.0/23;
+
+# GSSCNET
+  deny 103.13.212.0/24;
+  deny 103.13.213.0/24;
+
+# Yaesu Ekimae Go-Do Building 6F  Yaesu1-9-13
+  deny 103.5.251.0/24;
+
+# W-CAST-2-AS-AP
+  deny 101.0.20.0/22;
+  deny 101.0.26.0/24;
+  deny 101.0.27.0/24;
+  deny 101.0.29.0/24;
+  deny 101.0.31.0/24;
+
+# ATSOLNET
+  deny 103.11.4.0/24;
+  deny 103.11.5.0/24;
+
+# Suite 5106, 51F, 18 Harbour Road,
+  deny 103.14.116.0/22;
+
+# Civica Pty Limited
+  deny 103.15.72.0/24;
+
+# ScanSafe Ltd
+  deny 202.177.218.0/24;
+
+# SANDISOL
+  deny 103.6.60.0/24;
+
+# Upright Inc.
+  deny 103.250.72.0/24;
+
+# Sis solutions, Inc
+  deny 216.179.149.0/24;
+
+# Level 2 / E2B
+  deny 103.20.49.0/24;
+
+# abm Australasia, Pty. Ltd
+  deny 203.16.200.0/23;
+  deny 203.16.202.0/24;
+
+# Level 3 Communications, Inc.
+  deny 192.221.84.0/24;
+  deny 192.221.85.0/24;
+
+# AsiaPN-Net
+  deny 103.5.248.0/24;
+
+# Dai-3 Kamiyama-biru Shibuya 3-11-8
+  deny 103.23.221.0/24;
+
+# ACTION DYNASTY LIMITED
+  deny 103.18.184.0/22;
+
+# Equinix Hong Kong Limited
+  deny 27.111.160.0/19;
+  deny 27.111.192.0/20;
+
+# BIG Office Plaza Ikebukuro 11F, Higashi-Ikebukuro 2-62-8
+  deny 103.6.62.0/24;
+
+# GATEWAY INC
+  deny 103.10.36.0/24;
+
+# 
+  deny 103.28.171.0/24;
+  deny 133.152.0.0/16;
+  deny 202.240.242.0/24;
+
+# Equinix Asia Pacific Pte Ltd
+  deny 180.189.0.0/21;
+  deny 180.189.8.0/21;
+  deny 180.189.32.0/21;
+  deny 180.189.40.0/21;
+  deny 180.189.48.0/22;
+  deny 180.189.56.0/21;
+  deny 183.177.0.0/20;
+  deny 183.177.16.0/20;
+  deny 183.177.32.0/20;
+  deny 202.167.224.0/23;
+  deny 202.167.224.0/24;
+  deny 202.167.226.0/24;
+  deny 202.167.227.0/24;
+  deny 202.167.230.0/23;
+  deny 202.167.230.0/24;
+  deny 202.167.232.0/24;
+  deny 202.167.234.0/23;
+  deny 202.167.236.0/22;
+  deny 202.167.240.0/22;
+  deny 202.167.243.0/24;
+  deny 202.167.244.0/22;
+  deny 202.167.248.0/23;
+  deny 202.167.252.0/23;
+  deny 202.167.254.0/24;
+  deny 202.167.255.0/24;
+  deny 202.177.192.0/24;
+  deny 202.177.193.0/24;
+  deny 202.177.195.0/24;
+  deny 202.177.196.0/23;
+  deny 202.177.198.0/24;
+  deny 202.177.199.0/24;
+  deny 202.177.200.0/23;
+  deny 202.177.202.0/23;
+  deny 202.177.204.0/23;
+  deny 202.177.206.0/24;
+  deny 202.177.207.0/24;
+
+# Equinix Asia Pacific
+  deny 119.27.0.0/19;
+  deny 119.27.32.0/20;
+  deny 119.27.50.0/23;
+  deny 119.27.52.0/22;
+  deny 119.27.56.0/22;
+  deny 119.27.60.0/23;
+  deny 119.27.60.0/24;
+  deny 122.50.64.0/19;
+  deny 122.50.104.0/21;
+  deny 122.50.124.0/22;
+  deny 203.190.224.0/23;
+  deny 203.190.224.0/24;
+  deny 203.190.226.0/24;
+  deny 203.190.228.0/23;
+  deny 203.190.231.0/24;
+  deny 203.190.232.0/22;
+  deny 203.190.236.0/22;
+  deny 203.190.239.0/24;
+
+# Psuccess2
+  deny 103.245.5.0/24;
+  deny 103.245.6.0/24;
+
+# National Voice and Data Pty Ltd
+  deny 221.120.160.0/22;
+
+# Hillside (Australia New Media) Pty Ltd
+  deny 27.111.244.0/24;
+  deny 178.237.168.0/24;
+
+# Fidelity Investments
+  deny 192.223.144.0/24;
+
+# Tristan Goode
+  deny 180.148.24.0/22;
+
+# Internet Web hosting provider
+  deny 202.86.250.0/24;
+
+# Ogavah Pty Ltd
+  deny 103.19.60.0/22;
+
+# Cadogan House
+  deny 116.68.190.0/24;
+
+# CLDSQNET01
+  deny 103.9.164.0/24;
+
+# Australian IT Solutions Pty Ltd
+  deny 103.240.134.0/23;
+
+# Shibuya-Johnson Building401 Sakuragaoka-Chou 17-12
+  deny 103.9.93.0/24;
+
+# Integrix Pty Ltd
+  deny 103.254.24.0/24;
+
+# Accenture Australia Pty Ltd
+  deny 202.77.136.0/24;
+
+# Psuccessnet
+  deny 103.245.4.0/24;
+
+# SQI Japan Co.,Ltd.
+  deny 103.30.52.0/22;
+
+# TRUSTCKNet
+  deny 101.0.30.0/24;
+
+# Atkins China Ltd.
+  deny 103.225.250.0/24;
+
+# 1065-A Zhaojiabang Road
+  deny 14.102.156.0/24;
+
+# HKG-E 5.152.177.0/24
+  deny 5.152.177.0/24;
+
+# Qantas Airways
+  deny 168.134.2.0/24;
+
+# INSPnet01
+  deny 103.7.208.0/23;
+
+# INSPnet02
+  deny 103.7.210.0/23;
+
+# Nexus One Pty Ltd
+  deny 103.19.216.0/24;

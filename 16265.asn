@@ -1,0 +1,329 @@
+######
+# TITLE: AS16265 LeaseWeb B.V.
+#  DATE: 15/06/2014
+#####
+
+# Totaaldomein BV
+  deny 31.186.168.0/22;
+  deny 31.186.172.0/23;
+
+# SC GLOBE HOSTING SRL
+  deny 92.114.86.0/23;
+
+# UBAVICIUS ANT. - FARAZOUMIS IOAN. O.E.
+  deny 46.226.192.0/21;
+
+# Anhad Dhingra
+  deny 185.56.80.0/22;
+
+# Stichting Greenpeace Council
+  deny 194.0.197.0/24;
+
+# Amsterdam net
+  deny 185.38.185.0/24;
+
+# Mezzami B.V.
+  deny 94.124.56.0/21;
+
+# Totalin Communication Systems VOF
+  deny 91.195.118.0/23;
+
+# 2ML it solutions bv
+  deny 85.234.224.0/19;
+
+# AWM LAB LTD
+  deny 46.243.0.0/21;
+
+# Infinite Technologies Limited
+  deny 91.215.156.0/22;
+  deny 192.162.136.0/22;
+
+# PORTNAP
+  deny 194.60.71.0/24;
+
+# BV Dot TK, KG 213, Amsterdam
+  deny 83.223.32.0/20;
+
+# ********************************************************
+  deny 5.61.32.0/20;
+  deny 37.1.192.0/21;
+  deny 37.1.216.0/21;
+
+# Today ISP BV
+  deny 87.236.96.0/21;
+
+# net for portal
+  deny 146.185.210.0/23;
+
+# ADVANCEDHOSTERS LIMITED LW
+  deny 88.208.50.0/23;
+  deny 88.208.52.0/22;
+
+# ITCDATA-BULK-NET01
+  deny 196.193.0.0/17;
+  deny 196.193.128.0/17;
+
+# VDO-X
+  deny 82.150.152.0/24;
+
+# KELKOO.COM LIMITED
+  deny 193.104.219.0/24;
+
+# .masterhost
+  deny 90.156.224.0/20;
+
+# Netdirekt Frankfurt
+  deny 77.223.144.0/23;
+
+# Network for LEASEWEB
+  deny 109.120.180.0/22;
+
+# Cooperatie VGZ-IZA ua
+  deny 195.42.134.0/23;
+
+# 185.51.192.0/22
+  deny 185.51.192.0/22;
+
+# NOC Network
+  deny 5.44.144.0/22;
+
+# Totalin Communication Systems V.O.F.
+  deny 195.200.82.0/23;
+
+# Hosting Network
+  deny 80.253.248.0/22;
+  deny 213.142.132.0/22;
+  deny 213.142.136.0/21;
+  deny 213.142.144.0/22;
+
+# Addional net
+  deny 185.24.174.0/24;
+  deny 185.24.175.0/24;
+
+# Leaseweb Germany GmbH
+  deny 37.58.48.0/20;
+  deny 46.165.192.0/18;
+  deny 91.109.16.0/20;
+  deny 178.162.128.0/17;
+  deny 185.17.144.0/22;
+
+# Hosting Infrastructure 03
+  deny 109.70.9.0/24;
+  deny 109.70.10.0/23;
+
+# AlexoMedia Ltd.
+  deny 185.34.68.0/22;
+  deny 193.27.72.0/23;
+
+# Saima Sistemas SL
+  deny 159.255.192.0/22;
+
+# 167.88.48.0/20
+  deny 167.88.48.0/20;
+
+# Amplusnet SRL
+  deny 84.247.62.0/24;
+  deny 188.211.239.0/24;
+  deny 188.241.65.0/24;
+
+# KiXtart Webhosting BV
+  deny 195.140.240.0/22;
+
+# GLOBE HOSTING LTD
+  deny 94.177.98.0/23;
+
+# Wezzet LLC
+  deny 81.161.99.0/24;
+
+# Recte-IT B.V.
+  deny 93.188.64.0/21;
+
+# Uplink LLC
+  deny 193.151.91.0/24;
+
+# McHost.RU Colocation
+  deny 178.208.94.0/24;
+
+# 185.24.240.0/24
+  deny 185.24.240.0/24;
+
+# Elvsoft SRL
+  deny 77.81.240.0/21;
+
+# LeaseWeb CDN B.V.
+  deny 185.28.68.0/24;
+  deny 185.28.69.0/24;
+  deny 185.28.71.0/24;
+
+# TANKER INTERNATIONAL LIMITED
+  deny 185.19.212.0/22;
+
+# Estro Web Services Private Limited
+  deny 37.49.224.0/24;
+  deny 37.49.225.0/24;
+  deny 37.49.228.0/24;
+  deny 37.49.229.0/24;
+  deny 185.53.88.0/24;
+
+# EUROPE-NL
+  deny 178.18.24.0/23;
+
+# AWMLABLTD network one
+  deny 109.69.56.0/22;
+
+# CyberServ B.V.
+  deny 193.43.92.0/24;
+  deny 193.242.108.0/24;
+  deny 195.242.98.0/23;
+
+# VCN Corp. / kolido.net
+  deny 91.184.46.0/23;
+
+# Gimasi SA
+  deny 185.44.22.0/23;
+
+# LeaseWeb B.V.
+  deny 5.79.64.0/18;
+  deny 31.31.32.0/21;
+  deny 37.48.64.0/18;
+  deny 46.182.120.0/21;
+  deny 62.212.64.0/19;
+  deny 82.192.64.0/19;
+  deny 83.149.64.0/18;
+  deny 85.17.0.0/16;
+  deny 94.75.192.0/18;
+  deny 95.211.0.0/16;
+  deny 185.17.184.0/22;
+
+# ON2IT B.V.
+  deny 185.46.232.0/24;
+
+# EuroVPS
+  deny 77.235.32.0/19;
+
+# Dediserv Dedicated Servers Sp. z o.o.
+  deny 212.7.192.0/21;
+  deny 212.7.202.0/24;
+  deny 212.7.204.0/22;
+  deny 212.7.208.0/21;
+
+# Leaseweb Germany GmbH (previously netdirekt e. K.)
+  deny 217.20.124.0/23;
+
+# ADVANCEDHOSTERS LIMITED
+  deny 88.208.43.0/24;
+  deny 88.208.44.0/23;
+  deny 88.208.57.0/24;
+  deny 88.208.58.0/23;
+  deny 88.208.60.0/22;
+
+# 190.105.195.0/24
+  deny 190.105.195.0/24;
+
+# 41.191.215.0/24
+  deny 41.191.215.0/24;
+
+# 178.18.20.0/22
+  deny 178.18.20.0/22;
+
+# Fragnet Networks AB
+  deny 185.16.84.0/24;
+
+# Servertek Technology Limited
+  deny 185.49.68.0/22;
+
+# "Rustelekom" TK Limited Liability Company
+  deny 185.17.120.0/22;
+  deny 217.73.56.0/21;
+
+# Playfon ltd.
+  deny 195.14.2.0/24;
+  deny 195.14.21.0/24;
+
+# Re Media SRL
+  deny 217.19.1.0/24;
+
+# residential ethernet networks
+  deny 93.176.128.0/23;
+
+# Flexwebhosting BV
+  deny 46.17.0.0/21;
+  deny 62.84.240.0/22;
+  deny 109.70.0.0/21;
+  deny 128.140.216.0/22;
+  deny 185.27.140.0/22;
+
+# 190.105.193.0/24
+  deny 190.105.193.0/24;
+
+# Ibrahim SEN
+  deny 93.190.220.0/22;
+  deny 185.32.14.0/23;
+
+# Fotexnet Kft
+  deny 79.172.198.0/24;
+
+# Yuli Azarch trading as YaiSales
+  deny 185.30.232.0/22;
+
+# PEAKFACTORY
+  deny 185.24.172.0/23;
+
+# SC ELVSOFT SRL
+  deny 46.102.240.0/21;
+
+# 41.242.144.0/21
+  deny 41.242.144.0/21;
+
+# EXACTHOST NEDERLAND B.V.
+  deny 46.182.176.0/22;
+
+# DOMENY.PL SP. Z O.O
+  deny 91.224.38.0/23;
+
+# Zwiebelfreunde e.V.
+  deny 192.36.61.0/24;
+
+# SpeedPartner GmbH
+  deny 91.184.48.0/20;
+
+# FIBERMAX NETWORKS
+  deny 178.18.30.0/23;
+  deny 178.18.30.0/24;
+  deny 178.18.31.0/24;
+
+# Copernica BV
+  deny 145.255.128.0/21;
+
+# WRonline GbR
+  deny 80.65.32.0/20;
+
+# Unive Services B.V.
+  deny 185.22.4.0/22;
+
+# Jan Dijk trading as "NR1NET"
+  deny 37.75.152.0/21;
+
+# SC SUN WARE SRL
+  deny 94.177.146.0/24;
+
+# Vargonen Teknoloji Ilet. ve Int. Hiz. Tic. Ltd. Sti.
+  deny 37.1.144.0/22;
+
+# IM LEVEL7 SRL
+  deny 188.0.224.0/23;
+
+# Assiva Limited
+  deny 91.217.72.0/23;
+
+# VCN Corp.
+  deny 193.239.6.0/23;
+
+# Hosting Infrastructure
+  deny 109.70.12.0/22;
+
+# ARPITEC IP NETWORK
+  deny 212.114.56.0/23;
+
+# Network of UAB Dominant Plius
+  deny 185.23.16.0/23;

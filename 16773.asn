@@ -1,0 +1,9 @@
+######
+# TITLE: AS16773 Big Fish Games, Inc.
+#  DATE: 15/06/2014
+#####
+
+# Big Fish Games, Inc.
+  deny 208.77.152.0/23;
+  deny 208.77.154.0/24;
+  deny 208.77.155.0/24;

@@ -1,0 +1,23 @@
+######
+# TITLE: AS24931 DediPower Managed Hosting Limited
+#  DATE: 15/06/2014
+#####
+
+# Mediasift Limited
+  deny 185.20.4.0/22;
+
+# DediPower Managed Hosting Limited
+  deny 46.236.0.0/19;
+  deny 46.236.32.0/20;
+  deny 46.236.48.0/21;
+  deny 46.236.56.0/22;
+  deny 81.29.64.0/19;
+  deny 89.151.64.0/18;
+  deny 178.236.144.0/20;
+
+# 
+  deny 185.54.72.0/22;
+
+# Data Store 365 Limited
+  deny 185.8.108.0/24;
+  deny 185.8.109.0/24;

@@ -1,0 +1,89 @@
+######
+# TITLE: AS24961 myLoc managed IT AG
+#  DATE: 27/05/2014
+#####
+
+# IT-On.Net GmbH
+  deny 193.22.251.0/24;
+
+# eSPECTRUM Internet-Solution GmbH
+  deny 80.82.218.0/24;
+
+# Interprovider Limited
+  deny 193.111.136.0/21;
+
+# TOWER MARKETING ltd.
+  deny 31.184.224.0/22;
+
+# Gameservers by http://gameserver.gamed.de/pl.html
+  deny 146.0.47.0/24;
+
+# SC FIBER UPLOAD SRL
+  deny 86.55.158.0/24;
+  deny 86.55.221.0/24;
+  deny 94.60.229.0/24;
+
+# DIAHOSTING LIMITED
+  deny 31.22.106.0/23;
+
+# myLoc managed IT AG
+  deny 5.104.104.0/21;
+  deny 5.199.128.0/20;
+  deny 37.157.248.0/21;
+  deny 46.20.32.0/20;
+  deny 46.20.34.0/24;
+  deny 46.20.46.0/24;
+  deny 46.228.192.0/20;
+  deny 62.141.32.0/20;
+  deny 78.31.64.0/21;
+  deny 78.31.64.0/22;
+  deny 78.31.68.0/22;
+  deny 80.82.208.0/20;
+  deny 81.30.144.0/20;
+  deny 83.136.80.0/21;
+  deny 85.114.128.0/19;
+  deny 91.194.84.0/23;
+  deny 91.194.84.0/24;
+  deny 91.194.85.0/24;
+  deny 93.186.192.0/20;
+  deny 146.0.32.0/20;
+  deny 185.15.244.0/22;
+  deny 193.111.198.0/23;
+  deny 217.79.176.0/20;
+
+# Address Space for VPS Service
+  deny 31.22.104.0/23;
+
+# Flex Information Network
+  deny 199.201.240.0/24;
+
+# simple-ASP GmbH
+  deny 93.186.203.0/24;
+
+# SimpleASP
+  deny 81.30.146.0/23;
+
+# 80.86.170.0/23
+  deny 80.86.170.0/23;
+
+# Media Ventures GmbH
+  deny 91.242.212.0/24;
+
+# fast IT Colocation
+  deny 62.141.33.0/24;
+
+# Stagnom Ltd.
+  deny 141.8.244.0/22;
+  deny 141.8.248.0/24;
+
+# fibre one networks GmbH
+  deny 91.212.85.0/24;
+
+# 89.163.224.0/20
+  deny 89.163.224.0/20;
+
+# 80.86.186.0/24
+  deny 80.86.186.0/24;
+
+# Turtle Entertainment GmbH
+  deny 193.41.200.0/24;

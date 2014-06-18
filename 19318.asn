@@ -1,0 +1,67 @@
+######
+# TITLE: AS19318 NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC
+#  DATE: 15/06/2014
+#####
+
+# HOST DEPARTMENT LLC
+  deny 202.53.73.0/24;
+
+# CONECTIVA 4
+  deny 200.115.71.0/24;
+
+# 199.48.162.0/24
+  deny 199.48.162.0/24;
+
+# Interserver, Inc
+  deny 64.20.32.0/19;
+  deny 64.20.32.0/24;
+  deny 66.23.224.0/20;
+  deny 66.23.224.0/24;
+  deny 66.23.225.0/24;
+  deny 66.45.224.0/19;
+  deny 68.168.208.0/20;
+  deny 68.168.212.0/24;
+  deny 68.168.214.0/23;
+  deny 68.168.216.0/22;
+  deny 68.168.222.0/24;
+  deny 69.10.32.0/19;
+  deny 69.10.32.0/20;
+  deny 69.10.48.0/20;
+  deny 69.10.53.0/24;
+  deny 69.10.57.0/24;
+  deny 162.216.112.0/22;
+  deny 162.220.160.0/21;
+  deny 162.220.160.0/24;
+  deny 162.246.16.0/21;
+  deny 162.250.120.0/21;
+  deny 173.214.160.0/20;
+  deny 173.214.160.0/23;
+  deny 192.64.80.0/21;
+  deny 199.231.184.0/21;
+  deny 206.72.192.0/20;
+  deny 206.72.192.0/23;
+  deny 209.159.144.0/20;
+  deny 209.159.159.0/24;
+
+# MCI Communications Services, Inc. d/b/a Verizon Business
+  deny 64.10.32.0/20;
+
+# TM Domain Registry Ltd.
+  deny 91.208.95.0/24;
+
+# Calculo S.A
+  deny 200.115.64.0/21;
+
+# IronHost
+  deny 66.245.180.0/22;
+
+# Hostdepartment.com
+  deny 67.217.48.0/20;
+  deny 69.164.240.0/20;
+  deny 74.50.64.0/19;
+  deny 205.209.96.0/19;
+  deny 216.219.80.0/20;
+
+# Smart Solutions IT
+  deny 108.171.40.0/23;
+  deny 108.171.48.0/23;

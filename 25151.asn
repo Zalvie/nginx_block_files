@@ -1,0 +1,15 @@
+######
+# TITLE: AS25151 Cyso Hosting B.V., Alkmaar, The Netherlands
+#  DATE: 15/06/2014
+#####
+
+# Aorta Holding B.V.
+  deny 5.157.80.0/21;
+
+# Cyso Hosting B.V.
+  deny 37.46.136.0/21;
+  deny 85.158.200.0/21;
+  deny 93.94.224.0/21;
+  deny 109.235.72.0/21;
+  deny 185.54.112.0/22;
+  deny 217.170.2.0/23;

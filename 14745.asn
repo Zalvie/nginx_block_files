@@ -1,0 +1,115 @@
+######
+# TITLE: AS14745 Internap Network Services Corporation
+#  DATE: 27/05/2014
+#####
+
+# Securus Technologies
+  deny 70.42.178.0/24;
+
+# Nuclearfallout Enterprises, Inc.
+  deny 74.91.112.0/24;
+  deny 74.91.121.0/24;
+  deny 74.91.127.0/24;
+  deny 162.248.89.0/24;
+  deny 192.223.28.0/24;
+
+# RageFrameworks Inc
+  deny 199.168.132.0/23;
+
+# Manheim
+  deny 69.25.84.0/24;
+
+# Wall Street on Demand Company
+  deny 66.150.28.0/22;
+
+# Global Payments, Inc.
+  deny 64.27.244.0/23;
+  deny 64.27.246.0/23;
+
+# Transcend Services
+  deny 216.52.200.0/24;
+
+# Private National Mortgage Acceptance Company
+  deny 74.201.231.0/24;
+
+# Grant Street Group
+  deny 64.74.234.0/24;
+
+# UltraCart.com
+  deny 74.116.32.0/21;
+
+# Private Customer
+  deny 64.74.8.0/22;
+  deny 64.74.199.0/24;
+  deny 64.94.24.0/24;
+  deny 64.95.177.0/24;
+
+# Illinois Century Network
+  deny 64.150.59.0/24;
+
+# Nuclear Fallout Enterprises
+  deny 64.94.238.0/24;
+
+# Hi-Rez Studios
+  deny 63.251.64.0/23;
+
+# Cloudium.net
+  deny 69.89.33.0/24;
+
+# Internap
+  deny 64.7.223.0/24;
+
+# Internap Network Services Corporation
+  deny 63.251.64.0/20;
+  deny 64.74.0.0/22;
+  deny 64.74.24.0/22;
+  deny 64.74.46.0/23;
+  deny 64.74.52.0/23;
+  deny 64.74.72.0/23;
+  deny 64.74.78.0/23;
+  deny 64.74.112.0/20;
+  deny 64.74.192.0/20;
+  deny 64.94.0.0/20;
+  deny 64.94.144.0/22;
+  deny 64.94.158.0/24;
+  deny 64.94.220.0/22;
+  deny 64.94.224.0/20;
+  deny 64.94.239.0/24;
+  deny 64.95.48.0/20;
+  deny 64.95.144.0/22;
+  deny 64.95.148.0/22;
+  deny 64.95.152.0/22;
+  deny 64.95.160.0/21;
+  deny 64.95.168.0/22;
+  deny 64.95.176.0/22;
+  deny 64.95.184.0/21;
+  deny 64.95.192.0/22;
+  deny 64.95.204.0/22;
+  deny 66.150.16.0/20;
+  deny 66.150.48.0/20;
+  deny 69.25.80.0/20;
+  deny 70.42.176.0/21;
+  deny 72.5.80.0/20;
+  deny 72.5.81.0/24;
+  deny 72.5.120.0/21;
+  deny 74.201.170.0/23;
+  deny 74.201.230.0/23;
+  deny 74.217.32.0/20;
+  deny 74.217.120.0/21;
+  deny 74.217.172.0/22;
+  deny 74.217.176.0/22;
+  deny 74.217.180.0/22;
+  deny 74.217.236.0/22;
+  deny 107.150.128.0/21;
+  deny 162.217.8.0/22;
+  deny 216.52.36.0/22;
+  deny 216.52.158.0/24;
+  deny 216.52.192.0/20;
+
+# InterNAP Network Services
+  deny 64.74.48.0/22;
+
+# MICFO, LLC
+  deny 64.94.152.0/22;
+  deny 64.95.28.0/22;
+  deny 64.95.104.0/22;

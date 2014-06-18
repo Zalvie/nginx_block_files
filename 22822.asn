@@ -1,0 +1,49 @@
+######
+# TITLE: AS22822 Limelight Networks, Inc.
+#  DATE: 15/06/2014
+#####
+
+# Limelight Networks
+  deny 41.63.64.0/18;
+  deny 206.165.200.0/22;
+  deny 208.48.140.0/22;
+  deny 208.48.140.0/24;
+
+# Product Sales International
+  deny 192.206.124.0/24;
+
+# Limelight Networks Asia Pacific
+  deny 111.119.0.0/22;
+  deny 111.119.4.0/22;
+  deny 111.119.12.0/23;
+  deny 111.119.20.0/23;
+  deny 111.119.22.0/23;
+  deny 117.121.254.0/23;
+  deny 203.77.184.0/22;
+  deny 203.77.186.0/24;
+  deny 203.77.188.0/22;
+
+# WJP Networking Partners
+  deny 199.1.1.0/24;
+
+# Limelight Networks, INC.
+  deny 87.248.192.0/19;
+  deny 95.140.224.0/20;
+  deny 178.79.192.0/18;
+  deny 178.79.214.0/23;
+
+# Datability Software Systems, Inc.
+  deny 140.99.0.0/16;
+
+# Limelight Networks, Inc.
+  deny 68.142.64.0/18;
+  deny 68.142.127.0/24;
+  deny 69.28.128.0/18;
+  deny 69.28.143.0/24;
+  deny 69.28.180.0/24;
+  deny 69.164.0.0/18;
+  deny 208.111.128.0/18;
+  deny 208.111.184.0/24;
+
+# Level 3 Communications, Inc.
+  deny 207.218.166.0/24;

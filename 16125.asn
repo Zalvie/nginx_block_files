@@ -1,0 +1,10 @@
+######
+# TITLE: AS16125 UAB DUOMENU CENTRAS
+#  DATE: 18/04/2014
+#####
+
+# 
+  deny 46.166.168.0/21;
+
+# UAB DUOMENU CENTRAS
+  deny 5.199.164.0/22;

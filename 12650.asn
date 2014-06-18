@@ -1,0 +1,7 @@
+######
+# TITLE: AS12650 Il Sole 24 Ore AS
+#  DATE: 15/06/2014
+#####
+
+# Il Sole 24 Ore SpA
+  deny 212.45.96.0/21;

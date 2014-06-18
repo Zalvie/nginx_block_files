@@ -1,0 +1,17 @@
+######
+# TITLE: AS11051 Cyberverse, Inc.
+#  DATE: 15/06/2014
+#####
+
+# iComm
+  deny 208.80.183.0/24;
+
+# Cool Handle
+  deny 184.170.144.0/20;
+
+# Cyberverse, Inc.
+  deny 66.172.0.0/18;
+  deny 66.180.192.0/20;
+  deny 76.8.16.0/20;
+  deny 209.151.224.0/19;
+  deny 216.176.192.0/20;

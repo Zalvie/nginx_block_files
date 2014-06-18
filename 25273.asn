@@ -1,0 +1,16 @@
+######
+# TITLE: AS25273 S T N S
+#  DATE: 15/06/2014
+#####
+
+# Broadcasting Center Europe (an RTL Group Company)
+  deny 81.92.224.0/20;
+  deny 81.92.224.0/24;
+  deny 81.92.226.0/24;
+  deny 81.92.236.0/24;
+  deny 81.92.237.0/24;
+  deny 81.92.238.0/24;
+  deny 81.92.239.0/24;
+
+# LU-BCE
+  deny 81.92.225.0/24;

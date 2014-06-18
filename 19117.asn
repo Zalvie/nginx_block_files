@@ -1,0 +1,17 @@
+######
+# TITLE: AS19117 Heavy Computing
+#  DATE: 15/06/2014
+#####
+
+# Q Networks
+  deny 130.250.0.0/16;
+
+# Heavy Computing
+  deny 162.250.192.0/22;
+  deny 199.27.180.0/22;
+
+# Net Access Corporation
+  deny 67.196.136.0/22;
+
+# PSINet, Inc.
+  deny 38.117.112.0/20;

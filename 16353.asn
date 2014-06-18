@@ -1,0 +1,15 @@
+######
+# TITLE: AS16353 Merula Limited
+#  DATE: 15/06/2014
+#####
+
+# Server range for Manchester servers
+  deny 217.146.101.0/24;
+
+# Merula Limited
+  deny 85.158.152.0/21;
+  deny 217.146.96.0/20;
+  deny 217.146.112.0/20;
+
+# Woodleyside Information Technology Limited
+  deny 91.237.185.0/24;

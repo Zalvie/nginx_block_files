@@ -1,0 +1,7 @@
+######
+# TITLE: AS10566 ViaGenie Inc.
+#  DATE: 15/06/2014
+#####
+
+# ViaGenie Inc.
+  deny 206.123.31.0/24;

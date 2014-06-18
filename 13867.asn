@@ -1,0 +1,7 @@
+######
+# TITLE: AS13867 CBS Interactive Inc.
+#  DATE: 15/06/2014
+#####
+
+# CBS Interactive Inc.
+  deny 216.239.112.0/20;

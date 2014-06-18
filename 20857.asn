@@ -1,0 +1,27 @@
+######
+# TITLE: AS20857 TransIP B.V.
+#  DATE: 15/06/2014
+#####
+
+# Tripolis Solutions B.V.
+  deny 194.88.230.0/23;
+
+# Transip B.V.
+  deny 37.34.56.0/21;
+  deny 37.97.128.0/17;
+  deny 77.72.144.0/21;
+  deny 80.69.64.0/19;
+  deny 87.253.128.0/19;
+  deny 95.170.64.0/19;
+  deny 141.138.136.0/21;
+  deny 149.210.128.0/17;
+  deny 185.10.48.0/22;
+
+# INITWORKS BV.
+  deny 194.61.65.0/24;
+
+# mijndomein.nl BV
+  deny 188.93.146.0/23;
+
+# Game Changers B.V.
+  deny 185.40.108.0/22;

@@ -1,0 +1,10 @@
+######
+# TITLE: AS16737 Nerdie Networks LLC
+#  DATE: 15/06/2014
+#####
+
+# Nerdie Networks LLC
+  deny 199.96.156.0/22;
+  deny 199.192.216.0/24;
+  deny 199.192.218.0/24;
+  deny 199.192.219.0/24;

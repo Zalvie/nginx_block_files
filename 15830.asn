@@ -1,0 +1,331 @@
+######
+# TITLE: AS15830 TELECITYGROUP INTERNATIONAL LIMITED
+#  DATE: 15/06/2014
+#####
+
+# Skytel Networks Ireland
+  deny 37.46.17.0/24;
+
+# Neen Srl
+  deny 91.208.152.0/24;
+
+# pluradent AG & CO KG
+  deny 91.198.43.0/24;
+
+# United Biscuits (UK) Limited
+  deny 193.37.179.0/24;
+  deny 193.37.180.0/23;
+  deny 193.37.182.0/23;
+
+# Hogg Robinson PLC
+  deny 194.36.50.0/24;
+  deny 194.36.51.0/24;
+  deny 194.36.54.0/24;
+  deny 194.36.56.0/24;
+
+# Ernst & Young
+  deny 145.62.1.0/24;
+  deny 145.62.6.0/24;
+  deny 145.62.32.0/19;
+  deny 145.62.32.0/24;
+
+# VMS AG
+  deny 91.220.56.0/24;
+
+# Ekados Srl
+  deny 193.58.239.0/24;
+
+# TeleCity Group Customer - Linode
+  deny 213.219.2.0/24;
+
+# Capital Accumulation Services Ltd
+  deny 213.178.144.0/24;
+  deny 213.178.152.0/24;
+  deny 213.178.159.0/24;
+
+# Vesting Finance Holding B.V.
+  deny 91.223.56.0/24;
+
+# Capital Accumulation Services (iii.co.uk)
+  deny 213.178.133.0/24;
+  deny 213.178.134.0/24;
+
+# SysCon Automatisering B.V.
+  deny 193.104.6.0/24;
+
+# PACKNET LIMITED
+  deny 185.13.80.0/24;
+
+# Smartbox Experience Limited
+  deny 194.153.98.0/24;
+
+# Cuebid AB
+  deny 194.14.36.0/23;
+
+# ComputerLinks (UK) Limited
+  deny 193.105.108.0/24;
+
+# AQuest S.r.l.
+  deny 31.25.32.0/22;
+  deny 31.25.36.0/22;
+
+# KPS AG
+  deny 194.55.2.0/24;
+  deny 194.55.3.0/24;
+
+# Callcredit Limited
+  deny 149.255.184.0/21;
+  deny 149.255.184.0/24;
+  deny 149.255.185.0/24;
+
+# SDN Global
+  deny 64.30.151.0/24;
+  deny 64.30.152.0/24;
+  deny 64.30.153.0/24;
+  deny 64.30.156.0/24;
+
+# INS Consulting GmbH
+  deny 195.200.242.0/24;
+
+# ITSG GmbH
+  deny 91.198.86.0/24;
+
+# MECO Systemhaus GmbH & Co. KG
+  deny 91.198.157.0/24;
+
+# PhoenixWeb S.r.l.
+  deny 185.30.108.0/22;
+
+# Monkey Tail B.V.
+  deny 91.239.186.0/24;
+
+# Entigy Ltd
+  deny 80.247.95.0/24;
+
+# PSA Prepay Service GmbH
+  deny 91.198.163.0/24;
+
+# NEOCLES
+  deny 85.233.205.0/24;
+
+# Lucini & Lucini Communications Europe S.R.L.
+  deny 91.233.181.0/24;
+
+# TELECITYGROUP INTERNATIONAL LIMITED
+  deny 62.209.32.0/19;
+  deny 62.216.224.0/19;
+  deny 62.216.244.0/22;
+  deny 80.85.64.0/19;
+  deny 80.85.64.0/20;
+  deny 80.85.80.0/23;
+  deny 80.85.82.0/23;
+  deny 80.85.88.0/21;
+  deny 80.252.80.0/20;
+  deny 81.29.192.0/20;
+  deny 81.29.208.0/20;
+  deny 81.201.96.0/19;
+  deny 82.199.64.0/19;
+  deny 85.90.224.0/19;
+  deny 85.90.252.0/22;
+  deny 85.233.192.0/19;
+  deny 87.237.184.0/21;
+  deny 88.80.160.0/20;
+  deny 88.80.176.0/21;
+  deny 89.21.0.0/19;
+  deny 89.107.16.0/21;
+  deny 109.237.16.0/20;
+  deny 188.95.96.0/21;
+  deny 194.8.92.0/23;
+  deny 212.71.224.0/21;
+  deny 212.71.240.0/21;
+  deny 212.71.240.0/22;
+  deny 212.111.32.0/19;
+  deny 212.111.32.0/21;
+  deny 212.111.44.0/22;
+  deny 212.111.48.0/20;
+  deny 213.52.128.0/17;
+  deny 213.52.128.0/19;
+  deny 213.52.132.0/22;
+  deny 213.52.136.0/21;
+  deny 213.52.144.0/20;
+  deny 213.52.160.0/20;
+  deny 213.52.172.0/22;
+  deny 213.52.176.0/22;
+  deny 213.52.180.0/23;
+  deny 213.52.184.0/21;
+  deny 213.52.184.0/22;
+  deny 213.52.188.0/23;
+  deny 213.52.190.0/23;
+  deny 213.52.192.0/18;
+  deny 213.168.224.0/19;
+  deny 213.219.0.0/18;
+  deny 217.20.32.0/20;
+  deny 217.20.32.0/21;
+  deny 217.20.40.0/23;
+  deny 217.20.42.0/23;
+  deny 217.20.44.0/22;
+  deny 217.68.16.0/20;
+  deny 217.68.16.0/22;
+  deny 217.68.20.0/22;
+  deny 217.68.24.0/21;
+  deny 217.117.144.0/20;
+
+# VIP Internet B.V.
+  deny 109.106.160.0/19;
+
+# Motortrak Ltd
+  deny 194.145.147.0/24;
+  deny 195.38.19.0/24;
+
+# Intervog SARL
+  deny 193.164.202.0/24;
+  deny 193.164.203.0/24;
+
+# DreamScape Networks FZ-LLC
+  deny 176.74.24.0/21;
+  deny 176.74.29.0/24;
+
+# ILLICOM
+  deny 85.158.120.0/24;
+  deny 85.158.122.0/24;
+
+# smcc.net GmbH
+  deny 91.213.103.0/24;
+  deny 194.50.33.0/24;
+
+# Westpoint Limited
+  deny 91.213.28.0/24;
+
+# A.E.C. Advertising and Electronic Commerce S.r.l.
+  deny 91.220.168.0/24;
+
+# BHost Limited
+  deny 185.47.60.0/22;
+
+# Luther Rechtsanwaltsgesellschaft mbH
+  deny 193.200.162.0/24;
+
+# mijnpartnergroep.nl VOF
+  deny 185.41.124.0/22;
+
+# i:FAO Group GmbH
+  deny 194.116.128.0/24;
+  deny 194.116.129.0/24;
+
+# 91.233.52.0/23
+  deny 91.233.52.0/23;
+
+# computeruniverse GmbH
+  deny 194.59.183.0/24;
+
+# CEMA AG Spezialisten fur Informationstechnologie
+  deny 195.144.22.0/24;
+
+# Complinet LTD
+  deny 193.142.212.0/24;
+
+# NEEN SRL
+  deny 192.165.228.0/24;
+
+# TeleCity Group Customer - G4BOX Inc.
+  deny 62.209.41.0/24;
+
+# NetXP s.a.s.
+  deny 185.11.188.0/22;
+
+# Pierre et Vacances SA
+  deny 194.4.153.0/24;
+
+# TeleCity Group Customer - Ubiquisys Limited
+  deny 212.111.60.0/24;
+
+# Finexo Global Investments Ltd
+  deny 91.208.204.0/24;
+
+# WEBSHOP-MANUTAN Servers
+  deny 217.74.97.0/24;
+  deny 217.74.104.0/24;
+
+# MaxIT Consulting GmbH
+  deny 193.200.218.0/24;
+
+# Manutan International S.A.
+  deny 185.33.212.0/24;
+  deny 185.33.213.0/24;
+
+# Scopevisio AG
+  deny 195.230.126.0/24;
+
+# Computerlinks UK Limited
+  deny 91.241.0.0/23;
+
+# The Digital Xpedition (TDX) Holding B.V.
+  deny 195.137.214.0/23;
+
+# NEEN s.r.l.
+  deny 85.159.144.0/22;
+
+# Euro Payment Group GmbH
+  deny 185.28.172.0/22;
+
+# digital media center GmbH
+  deny 194.120.109.0/24;
+
+# Auktion&Markt; AG
+  deny 194.88.0.0/24;
+
+# WEBSHOP2-MANUTAN Servers
+  deny 217.74.105.0/24;
+
+# Linode, LLC
+  deny 85.159.208.0/21;
+  deny 88.80.184.0/21;
+  deny 109.74.192.0/20;
+  deny 151.236.216.0/21;
+  deny 176.58.96.0/19;
+  deny 178.79.128.0/18;
+  deny 212.71.232.0/21;
+  deny 212.71.248.0/21;
+
+# TeleCity Group Customer - ITSG
+  deny 81.201.113.0/24;
+
+# Lucini & Lucini Communications Ltd.
+  deny 194.76.247.0/24;
+
+# Syrahost anycast network
+  deny 27.124.125.0/24;
+
+# Tullow Oil's European Approved Assignment
+  deny 171.33.144.0/24;
+  deny 171.33.145.0/24;
+
+# GENERIX S.A.
+  deny 85.158.127.0/24;
+
+# Nohup srl
+  deny 185.23.28.0/22;
+
+# Ekados Datacenter Infrastructure
+  deny 77.223.0.0/20;
+
+# cojama Infosystems GmbH
+  deny 193.143.122.0/24;
+
+# D21 SA
+  deny 109.232.88.0/21;
+
+# Fenestrae BV
+  deny 193.193.161.0/24;
+
+# KOSMOZZ
+  deny 89.31.216.0/21;
+
+# SAP-AG Walldorf
+  deny 194.55.88.0/24;
+
+# Telecity
+  deny 37.46.16.0/24;
+
+# Power DNN
+  deny 70.34.40.0/21;

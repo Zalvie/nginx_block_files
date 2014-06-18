@@ -1,0 +1,10 @@
+######
+# TITLE: AS18541 Blue Jeans Network, Inc.
+#  DATE: 15/06/2014
+#####
+
+# Blue Jeans Network, Inc.
+  deny 199.48.152.0/22;
+
+# Level 3 Communications, Inc.
+  deny 64.215.152.0/24;

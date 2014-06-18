@@ -1,0 +1,11 @@
+######
+# TITLE: AS18020 Anchor Systems Pty Ltd
+#  DATE: 15/06/2014
+#####
+
+# Anchor Systems Pty Ltd
+  deny 110.173.136.0/21;
+  deny 110.173.144.0/24;
+  deny 110.173.152.0/21;
+  deny 202.4.224.0/21;
+  deny 202.4.232.0/21;

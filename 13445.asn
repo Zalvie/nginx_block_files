@@ -1,0 +1,37 @@
+######
+# TITLE: AS13445 Webex Communications, Inc.
+#  DATE: 15/06/2014
+#####
+
+# Webex Communications, Inc.
+  deny 64.68.96.0/19;
+  deny 64.68.104.0/21;
+  deny 64.68.120.0/21;
+  deny 66.114.160.0/20;
+  deny 66.114.160.0/21;
+  deny 66.114.168.0/21;
+  deny 66.163.32.0/19;
+  deny 66.163.46.0/23;
+  deny 173.243.0.0/20;
+  deny 209.197.192.0/19;
+  deny 209.197.192.0/21;
+
+# WebEx Communications, Inc. APNIC network.
+  deny 114.29.192.0/19;
+  deny 114.29.192.0/21;
+  deny 114.29.200.0/23;
+  deny 114.29.202.0/23;
+  deny 114.29.204.0/22;
+  deny 114.29.208.0/21;
+
+# Webex Worldwide B.V.
+  deny 62.109.192.0/18;
+
+# WebEx Communications, Application Service Provider,
+  deny 210.4.192.0/20;
+
+# Active Touch, Inc
+  deny 208.8.81.0/24;
+
+# WebEx London
+  deny 62.109.200.0/21;

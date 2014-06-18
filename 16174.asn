@@ -1,0 +1,7 @@
+######
+# TITLE: AS16174 Intuitiv 
+#  DATE: 15/06/2014
+#####
+
+# Intuitiv Ltd.
+  deny 212.70.64.0/22;

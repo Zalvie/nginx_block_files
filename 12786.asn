@@ -1,0 +1,7 @@
+######
+# TITLE: AS12786 Hattrick Limited
+#  DATE: 15/06/2014
+#####
+
+# Hattrick Limited
+  deny 193.34.188.0/23;

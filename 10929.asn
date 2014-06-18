@@ -1,0 +1,54 @@
+######
+# TITLE: AS10929 Netelligent Hosting Services Inc.
+#  DATE: 27/05/2014
+#####
+
+# Netelligent Hosting Services
+  deny 64.86.57.0/24;
+
+# Loose Foot Computing Limited
+  deny 208.79.218.0/23;
+
+# Elite Email Inc.
+  deny 199.122.116.0/22;
+
+# Buzz Image Group Inc.
+  deny 205.236.16.0/24;
+
+# Cybertourisme Inc.
+  deny 205.236.70.0/24;
+
+# TATA
+  deny 64.86.56.0/22;
+
+# Koumbit
+  deny 199.58.80.0/24;
+  deny 199.58.81.0/24;
+  deny 199.58.82.0/24;
+
+# HOSTOWEB.COM -  MAROC
+  deny 154.70.201.0/24;
+
+# St. Remy Press
+  deny 205.151.108.0/22;
+
+# Netelligent Hosting Services Inc.
+  deny 63.243.164.0/24;
+  deny 64.15.64.0/20;
+  deny 67.212.64.0/19;
+  deny 68.71.32.0/19;
+  deny 69.165.80.0/20;
+  deny 69.165.80.0/22;
+  deny 69.165.95.0/24;
+  deny 184.170.128.0/20;
+  deny 192.154.136.0/21;
+  deny 192.154.142.0/23;
+  deny 205.204.64.0/19;
+  deny 209.44.96.0/19;
+
+# 19thfloor.net
+  deny 204.147.76.0/22;
+  deny 208.82.120.0/22;
+
+# @six.net
+  deny 205.236.58.0/24;

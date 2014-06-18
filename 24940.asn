@@ -1,0 +1,52 @@
+######
+# TITLE: AS24940 Hetzner Online AG
+#  DATE: 15/06/2014
+#####
+
+# Hetzner Online AG
+  deny 5.9.0.0/16;
+  deny 46.4.0.0/16;
+  deny 78.46.0.0/15;
+  deny 85.10.192.0/18;
+  deny 88.198.0.0/16;
+  deny 176.9.0.0/16;
+  deny 178.63.0.0/16;
+  deny 185.12.64.0/22;
+  deny 188.40.0.0/16;
+  deny 213.133.96.0/19;
+  deny 213.239.192.0/18;
+
+# ZA Managed Servers in DE (Hetzner Africa Range)
+  deny 197.242.84.0/22;
+
+# DOMAINFACTORY Gmbh
+  deny 193.223.77.0/24;
+
+# Abuse issues - abuse@eavps.com
+  deny 213.169.144.0/22;
+
+# ITfM GmbH
+  deny 91.233.8.0/22;
+  deny 176.102.168.0/21;
+  deny 193.25.170.0/23;
+
+# Simon & Stolle GbR
+  deny 91.220.49.0/24;
+  deny 194.145.226.0/24;
+
+# Server Block
+  deny 144.76.0.0/16;
+  deny 148.251.0.0/16;
+
+# ZDIS GmbH
+  deny 193.110.6.0/23;
+
+# ARPITEC IP NETWORK
+  deny 212.114.58.0/23;
+
+# NETZINT-WI-01
+  deny 185.50.120.0/23;
+
+# Network of Online-Info Service GmbH
+  deny 194.42.180.0/22;
+  deny 194.42.184.0/22;

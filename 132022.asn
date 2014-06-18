@@ -1,0 +1,7 @@
+######
+# TITLE: AS132022 Aktif Setegap Sdn Bhd
+#  DATE: 15/06/2014
+#####
+
+# Lot G1 Incubator 1 Technology Park Malaysia
+  deny 103.246.204.0/22;

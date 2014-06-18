@@ -1,0 +1,25 @@
+######
+# TITLE: AS15657 Speedbone Internet & Connectivity GmbH
+#  DATE: 15/06/2014
+#####
+
+# European Regional Registry
+  deny 193.178.196.0/22;
+  deny 195.42.232.0/22;
+
+# DOMAINUNION AG
+  deny 195.3.248.0/22;
+
+# Online Now GmbH
+  deny 194.6.208.0/22;
+
+# Speedbone Internet & Connectivity GmbH
+  deny 80.81.240.0/20;
+  deny 95.173.96.0/19;
+  deny 217.13.192.0/20;
+
+# Tilo Hirsch
+  deny 193.200.210.0/24;
+
+# Routing Network
+  deny 80.81.246.0/24;

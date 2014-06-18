@@ -1,0 +1,69 @@
+######
+# TITLE: AS13332 Silicon Valley Web Hosting
+#  DATE: 15/06/2014
+#####
+
+# FutureNet Communications, Inc.
+  deny 198.17.80.0/24;
+
+# Silicon Valley Web Hosting
+  deny 8.4.55.0/24;
+  deny 8.4.59.0/24;
+  deny 23.252.240.0/20;
+  deny 65.77.128.0/21;
+  deny 67.207.192.0/20;
+  deny 67.207.198.0/24;
+  deny 67.207.206.0/24;
+  deny 89.167.192.0/20;
+  deny 142.0.240.0/20;
+  deny 198.89.96.0/19;
+  deny 198.89.104.0/24;
+  deny 198.89.109.0/24;
+  deny 198.100.160.0/19;
+  deny 199.188.116.0/22;
+  deny 208.69.176.0/21;
+  deny 208.78.240.0/21;
+  deny 208.166.48.0/20;
+
+# Sunwave Communications
+  deny 66.172.64.0/19;
+
+# Lucini & Lucini Communications Europe S.R.L.
+  deny 91.233.180.0/24;
+  deny 91.233.181.0/24;
+
+# Cogent Communications
+  deny 66.28.115.0/24;
+  deny 66.28.157.0/24;
+  deny 66.250.106.0/24;
+
+# Silicon Valley Web Hosting, Inc.
+  deny 8.4.48.0/20;
+  deny 8.4.51.0/24;
+  deny 8.4.56.0/24;
+  deny 8.4.57.0/24;
+  deny 23.252.248.0/22;
+  deny 64.200.20.0/22;
+  deny 64.200.24.0/22;
+  deny 69.50.224.0/19;
+  deny 198.89.107.0/24;
+  deny 198.89.111.0/24;
+
+# Intermarket Systems Incorporated
+  deny 144.208.0.0/24;
+  deny 144.208.16.0/21;
+  deny 144.208.56.0/21;
+  deny 144.208.128.0/17;
+
+# PSINet, Inc.
+  deny 38.113.192.0/23;
+  deny 38.113.204.0/22;
+  deny 38.113.216.0/22;
+
+# Evernet Hosting
+  deny 66.242.0.0/20;
+
+# FRANQUICIAS CONSOLIDADAS
+  deny 179.63.152.0/21;
+  deny 179.63.184.0/22;
+  deny 179.63.188.0/22;

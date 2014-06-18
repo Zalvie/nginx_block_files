@@ -1,0 +1,7 @@
+######
+# TITLE: AS24594 Frontier Systems Ltd.
+#  DATE: 15/06/2014
+#####
+
+# Frontier Systems Ltd
+  deny 93.95.120.0/21;

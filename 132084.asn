@@ -1,0 +1,24 @@
+######
+# TITLE: AS132084 5201 Great America Pkwy # 120
+#  DATE: 27/05/2014
+#####
+
+# Hutchison Global Crossing Ltd.
+  deny 118.103.154.0/24;
+  deny 118.103.155.0/24;
+
+# 
+  deny 165.180.240.0/24;
+  deny 165.180.241.0/24;
+  deny 165.180.242.0/24;
+  deny 202.235.112.0/21;
+
+# HGCTR NEW DATA CENTER
+  deny 118.103.158.0/24;
+  deny 118.103.159.0/24;
+
+# Hutchison GlobalCenter Limited
+  deny 103.11.92.0/24;
+
+# Hutchison Global Communications
+  deny 118.143.24.0/24;

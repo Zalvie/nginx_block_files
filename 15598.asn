@@ -1,0 +1,41 @@
+######
+# TITLE: AS15598 QSC AG
+#  DATE: 15/06/2014
+#####
+
+# Faber Network GmbH
+  deny 185.36.116.0/24;
+
+# SSP Europe GmbH
+  deny 94.16.0.0/18;
+
+# webme GmbH
+  deny 193.238.27.0/24;
+
+# Adestis It-Service GmbH
+  deny 193.16.97.0/24;
+
+# QSC AG
+  deny 62.146.0.0/16;
+  deny 80.190.0.0/16;
+  deny 80.190.128.0/19;
+  deny 81.17.96.0/19;
+  deny 81.17.104.0/23;
+  deny 82.149.64.0/19;
+  deny 212.123.96.0/19;
+
+# PrimeKOM internationale Netze Consulting GmbH
+  deny 213.139.64.0/19;
+
+# united-domains AG
+  deny 89.31.136.0/21;
+  deny 89.31.141.0/24;
+
+# Business Gateway AG
+  deny 91.206.152.0/23;
+
+# mission one GmbH
+  deny 193.239.185.0/24;
+
+# Internet Assigned Numbers Authority
+  deny 192.88.99.0/24;

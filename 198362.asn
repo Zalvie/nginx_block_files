@@ -1,0 +1,10 @@
+######
+# TITLE: AS198362 HELIACAL NETWORKS LTD
+#  DATE: 15/06/2014
+#####
+
+# MCKAYCOM LTD
+  deny 193.107.205.0/24;
+
+# Heliacal Networks Ltd
+  deny 91.234.48.0/24;

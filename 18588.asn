@@ -1,0 +1,11 @@
+######
+# TITLE: AS18588 Postmedia Network Inc
+#  DATE: 15/06/2014
+#####
+
+# Postmedia Network Inc
+  deny 199.71.36.0/24;
+  deny 199.71.40.0/24;
+  deny 199.71.43.0/24;
+  deny 204.187.148.0/22;
+  deny 204.187.154.0/24;

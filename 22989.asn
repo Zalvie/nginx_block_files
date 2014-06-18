@@ -1,0 +1,8 @@
+######
+# TITLE: AS22989 Free Software Foundation, Inc.
+#  DATE: 15/06/2014
+#####
+
+# Free Software Foundation, Inc.
+  deny 140.186.70.0/24;
+  deny 208.118.235.0/24;

@@ -1,0 +1,13 @@
+######
+# TITLE: AS14280 NetNation Communications Inc
+#  DATE: 15/06/2014
+#####
+
+# 1api GmbH
+  deny 193.227.117.0/24;
+
+# NetNation Communications Inc
+  deny 64.40.96.0/19;
+  deny 64.40.96.0/20;
+  deny 64.40.112.0/20;
+  deny 204.174.223.0/24;

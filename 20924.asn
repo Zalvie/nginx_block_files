@@ -1,0 +1,7 @@
+######
+# TITLE: AS20924 ICTeam 
+#  DATE: 15/06/2014
+#####
+
+# ICTeam S.p.A.
+  deny 80.76.64.0/20;

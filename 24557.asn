@@ -1,0 +1,65 @@
+######
+# TITLE: AS24557 UberGlobal Pty Ltd
+#  DATE: 15/06/2014
+#####
+
+# UberGlobal UBRCBR-PA
+  deny 175.107.168.0/24;
+  deny 175.107.174.0/24;
+  deny 175.107.175.0/24;
+  deny 175.107.178.0/24;
+  deny 175.107.181.0/24;
+  deny 175.107.182.0/24;
+  deny 175.107.183.0/24;
+  deny 175.107.188.0/23;
+  deny 175.107.190.0/24;
+
+# UberGlobal UBRCBRCCA
+  deny 175.107.170.0/24;
+  deny 175.107.176.0/24;
+  deny 175.107.184.0/24;
+
+# UberGlobal UBRSYD
+  deny 103.11.77.0/24;
+
+# UberGlobal UBR-SYD
+  deny 103.7.137.0/24;
+
+# Uber Global Pty Ltd
+  deny 103.7.136.0/24;
+  deny 113.20.0.0/24;
+  deny 113.20.2.0/24;
+  deny 113.20.3.0/24;
+  deny 113.20.4.0/22;
+  deny 113.20.8.0/21;
+  deny 117.55.224.0/20;
+  deny 175.107.128.0/20;
+  deny 175.107.144.0/20;
+  deny 175.107.160.0/22;
+  deny 175.107.164.0/22;
+  deny 175.107.171.0/24;
+  deny 175.107.172.0/24;
+  deny 175.107.177.0/24;
+  deny 175.107.179.0/24;
+  deny 175.107.180.0/24;
+  deny 175.107.185.0/24;
+  deny 202.93.4.0/24;
+  deny 202.93.5.0/24;
+  deny 203.24.88.0/24;
+  deny 203.24.89.0/24;
+  deny 203.88.112.0/20;
+
+# PRECEDENCE GROUP PTY LTD
+  deny 113.20.1.0/24;
+
+# UberGlobal UBRSYDCCA
+  deny 175.107.169.0/24;
+  deny 175.107.173.0/24;
+  deny 175.107.186.0/24;
+
+# UberGlobal UBRCBR
+  deny 103.11.76.0/24;
+
+# UberGlobal UBR-ALLOCATED
+  deny 103.11.78.0/24;
+  deny 103.11.79.0/24;
