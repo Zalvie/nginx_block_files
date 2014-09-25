@@ -1,0 +1,418 @@
+[+] Found 386 servers
+
+AS10929
+AS12876
+AS16276
+AS18978
+AS19624
+AS24971
+AS251
+AS29802
+AS29854
+AS30633
+AS30736
+AS31103
+AS3223
+AS34989
+AS35662
+AS36351
+AS39743
+AS41913
+AS42831
+AS48533
+AS49981
+AS50613
+AS51852
+AS53889
+
+
++--------------------+----------------------------------------+-------+
+|       Server       |                  ORG                   |  ASN  |
++--------------------+----------------------------------------+-------+
+| Bucharest-S01-I01  |            Voxility S.R.L.             | 39743 |
+| Amsterdam-S01-I01  |       Kaia Global Networks Ltd.        |  251  |
+| Bucharest-S03-I01  |            Voxility S.R.L.             | 39743 |
+|  Hamburg-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S04-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S02-I01   |       Kaia Global Networks Ltd.        |  251  |
+| Luxembourg-S01-I03 |       Kaia Global Networks Ltd.        |  251  |
+| Luxembourg-S01-I02 |       Kaia Global Networks Ltd.        |  251  |
+| Luxembourg-S01-I01 |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I01    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I02    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I04    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I03    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I05    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I06    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I07    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I08    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I10    |       Kaia Global Networks Ltd.        |  251  |
+|    Oslo-S01-I09    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I01    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I03    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I05    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I04    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I02    |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I04   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I05   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I07   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I08   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I06   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I10   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I09   |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I07    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I08    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I10    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I09    |       Kaia Global Networks Ltd.        |  251  |
+|   Espoo-S01-I06    |       Kaia Global Networks Ltd.        |  251  |
+|   Milano-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Milano-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Milano-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Milano-S01-I04   |       Kaia Global Networks Ltd.        |  251  |
+|   Milano-S01-I05   |       Kaia Global Networks Ltd.        |  251  |
+|   Moscow-S01-I02   |          Tangram Ukraine Ltd           | 48533 |
+|   Prague-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Prague-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Prague-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+| Reykjavik-S01-I02  |          THOR Data Center ehf          | 50613 |
+| Reykjavik-S01-I03  |          THOR Data Center ehf          | 50613 |
+|   Dublin-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Dublin-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Dublin-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Warsaw-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Warsaw-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I01    |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I03    |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I02    |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I05    |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I06    |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I04    |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I08    |       Kaia Global Networks Ltd.        |  251  |
+|    Kiev-S01-I07    |       Kaia Global Networks Ltd.        |  251  |
+| LosAngeles-S01-I01 |            Voxility S.R.L.             |  3223 |
+| LosAngeles-S01-I02 |            Voxility S.R.L.             |  3223 |
+| LosAngeles-S01-I03 |            Voxility S.R.L.             |  3223 |
+| LosAngeles-S01-I04 |            Voxility S.R.L.             |  3223 |
+| LosAngeles-S01-I05 |            Voxility S.R.L.             |  3223 |
+| LosAngeles-S01-I06 |            Voxility S.R.L.             |  3223 |
+| LosAngeles-S01-I07 |            Voxility S.R.L.             |  3223 |
+| LosAngeles-S01-I08 |            Voxility S.R.L.             |  3223 |
+|   Zurich-S03-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S03-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S03-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S03-I04   |       Kaia Global Networks Ltd.        |  251  |
+|   Paris-S01-I01    |       Kaia Global Networks Ltd.        |  251  |
+|   Paris-S01-I02    |       Kaia Global Networks Ltd.        |  251  |
+|   Paris-S01-I03    |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S02-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S02-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S02-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I08   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I04   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I05   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I06   |       Kaia Global Networks Ltd.        |  251  |
+|   Madrid-S01-I07   |       Kaia Global Networks Ltd.        |  251  |
+| Frankfurt-S01-I02  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S01-I01  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S01-I03  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S01-I04  |            Voxility S.R.L.             | 39743 |
+|   Lyngby-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Lyngby-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Lyngby-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+| Stockholm-S01-I01  |       Kaia Global Networks Ltd.        |  251  |
+| Stockholm-S01-I02  |       Kaia Global Networks Ltd.        |  251  |
+| Stockholm-S01-I03  |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S03-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S03-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S03-I03   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S06-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S06-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S06-I03   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S05-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S05-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S05-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Erfurt-S01-I02   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I03   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I04   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I06   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I07   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I08   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I09   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I10   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I05   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I11   |               Keyweb AG                | 31103 |
+|   Erfurt-S01-I01   |               Keyweb AG                | 31103 |
+|  NewYork-S02-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S02-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S02-I03   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S03-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S03-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S03-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Erfurt-S02-I01   |               Keyweb AG                | 31103 |
+|   Erfurt-S02-I04   |               Keyweb AG                | 31103 |
+|   Erfurt-S02-I05   |               Keyweb AG                | 31103 |
+|   Erfurt-S02-I07   |               Keyweb AG                | 31103 |
+|   Erfurt-S02-I08   |               Keyweb AG                | 31103 |
+|   Erfurt-S02-I09   |               Keyweb AG                | 31103 |
+|   Erfurt-S02-I10   |               Keyweb AG                | 31103 |
+|   Erfurt-S02-I11   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I02   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I03   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I04   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I05   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I06   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I08   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I09   |               Keyweb AG                | 31103 |
+|   Erfurt-S03-I11   |               Keyweb AG                | 31103 |
+|  NewYork-S04-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S04-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S04-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I11   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I12   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I13   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I14   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S07-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S07-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S07-I03   |       Kaia Global Networks Ltd.        |  251  |
+| Bucharest-S02-I01  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S02-I02  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S02-I03  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S02-I04  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S02-I05  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S02-I06  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S02-I07  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S02-I08  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S04-I01  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S04-I02  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S04-I03  |            Voxility S.R.L.             | 39743 |
+| Amsterdam-S01-I02  |       Kaia Global Networks Ltd.        |  251  |
+| Amsterdam-S01-I03  |       Kaia Global Networks Ltd.        |  251  |
+| Bucharest-S01-I02  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S01-I03  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S01-I04  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S01-I05  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S01-I06  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S03-I02  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S03-I03  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S03-I04  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S03-I05  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S03-I06  |            Voxility S.R.L.             | 39743 |
+|  Hamburg-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S02-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S02-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I16   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S01-I20   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S04-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S04-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Erfurt-S02-I03   |               Keyweb AG                | 31103 |
+|   Moscow-S01-I01   |          Tangram Ukraine Ltd           | 48533 |
+|   Moscow-S01-I04   |          Tangram Ukraine Ltd           | 48533 |
+|   Moscow-S01-I03   |          Tangram Ukraine Ltd           | 48533 |
+| Reykjavik-S01-I01  |          THOR Data Center ehf          | 50613 |
+|   Prague-S02-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Prague-S02-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Prague-S02-I03   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S01-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S01-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+| Washington-S01-I01 |            Voxility S.R.L.             |  3223 |
+| Washington-S01-I02 |            Voxility S.R.L.             |  3223 |
+| Washington-S01-I04 |            Voxility S.R.L.             |  3223 |
+| Washington-S01-I03 |            Voxility S.R.L.             |  3223 |
+|  NewYork-S08-I01   |             Data Room, Inc             | 19624 |
+|  NewYork-S08-I02   |             Data Room, Inc             | 19624 |
+|  NewYork-S08-I03   |             Data Room, Inc             | 19624 |
+|  NewYork-S08-I04   |             Data Room, Inc             | 19624 |
+|   Warsaw-S01-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Erfurt-S03-I01   |               Keyweb AG                | 31103 |
+|   Erfurt-S04-I02   |               Keyweb AG                | 31103 |
+|   Erfurt-S04-I03   |               Keyweb AG                | 31103 |
+|   Erfurt-S04-I04   |               Keyweb AG                | 31103 |
+| Frankfurt-S03-I01  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S03-I02  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S03-I03  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S03-I04  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S04-I01  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S04-I02  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S04-I03  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S04-I04  |            Voxility S.R.L.             | 39743 |
+|  Hamburg-S05-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S05-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S05-I03   |       Kaia Global Networks Ltd.        |  251  |
+|  Hamburg-S05-I04   |       Kaia Global Networks Ltd.        |  251  |
+|   London-S03-I01   |           Redstation Limited           | 35662 |
+|   London-S03-I02   |           Redstation Limited           | 35662 |
+|   London-S03-I03   |           Redstation Limited           | 35662 |
+|   London-S03-I04   |           Redstation Limited           | 35662 |
+|   Zurich-S04-I01   | Computerline, Schlierbach, Switzerland | 41913 |
+|   Zurich-S04-I02   | Computerline, Schlierbach, Switzerland | 41913 |
+|   Zurich-S04-I03   | Computerline, Schlierbach, Switzerland | 41913 |
+|   Zurich-S04-I04   | Computerline, Schlierbach, Switzerland | 41913 |
+|   London-S04-I01   |      UK Dedicated Servers Limited      | 42831 |
+|   London-S04-I02   |      UK Dedicated Servers Limited      | 42831 |
+|   London-S04-I03   |      UK Dedicated Servers Limited      | 42831 |
+|   London-S04-I04   |      UK Dedicated Servers Limited      | 42831 |
+| Amsterdam-S02-I01  |              WorldStream               | 49981 |
+| Amsterdam-S02-I02  |              WorldStream               | 49981 |
+| Amsterdam-S02-I03  |              WorldStream               | 49981 |
+| Amsterdam-S02-I04  |              WorldStream               | 49981 |
+|   Laval-S01-I01    |   Netelligent Hosting Services Inc.    | 10929 |
+|   Laval-S01-I02    |   Netelligent Hosting Services Inc.    | 10929 |
+|   Laval-S01-I03    |   Netelligent Hosting Services Inc.    | 10929 |
+|   Laval-S01-I04    |   Netelligent Hosting Services Inc.    | 10929 |
+|   Tampa-S01-I01    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I02    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I03    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I04    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I05    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I06    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I07    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I08    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I09    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Tampa-S01-I10    |        HIVELOCITY VENTURES CORP        | 29802 |
+|   Zurich-S05-I01   |           Private Layer INC            | 51852 |
+|   Zurich-S05-I06   |           Private Layer INC            | 51852 |
+| Singapore-S01-I01  |      SoftLayer Technologies Inc.       | 36351 |
+| Singapore-S01-I02  |      SoftLayer Technologies Inc.       | 36351 |
+| Singapore-S01-I03  |      SoftLayer Technologies Inc.       | 36351 |
+| Singapore-S01-I04  |      SoftLayer Technologies Inc.       | 36351 |
+|   Warsaw-S02-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Warsaw-S02-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Warsaw-S02-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S06-I01   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S06-I02   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S06-I03   |       Kaia Global Networks Ltd.        |  251  |
+|   Zurich-S06-I04   |       Kaia Global Networks Ltd.        |  251  |
+| Bucharest-S06-I02  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S06-I03  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S06-I04  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S06-I01  |            Voxility S.R.L.             | 39743 |
+|   Erfurt-S05-I01   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I03   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I04   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I05   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I06   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I07   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I08   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I09   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I10   |               Keyweb AG                | 31103 |
+|   Erfurt-S05-I11   |               Keyweb AG                | 31103 |
+| Frankfurt-S05-I01  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S05-I02  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S05-I03  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S05-I04  |            Voxility S.R.L.             | 39743 |
+| Frankfurt-S05-I05  |            Voxility S.R.L.             | 39743 |
+|  NewYork-S09-I01   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S09-I02   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S09-I03   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S09-I04   |       Kaia Global Networks Ltd.        |  251  |
+|  NewYork-S09-I05   |       Kaia Global Networks Ltd.        |  251  |
+| Bucharest-S04-I04  |            Voxility S.R.L.             | 39743 |
+|  HongKong-S01-I01  |      SoftLayer Technologies Inc.       | 36351 |
+|  HongKong-S01-I02  |      SoftLayer Technologies Inc.       | 36351 |
+|  HongKong-S01-I03  |      SoftLayer Technologies Inc.       | 36351 |
+|  HongKong-S01-I04  |      SoftLayer Technologies Inc.       | 36351 |
+|   Prague-S03-I01   |         Master Internet s.r.o          | 24971 |
+|   Prague-S03-I02   |         Master Internet s.r.o          | 24971 |
+|   Prague-S03-I03   |         Master Internet s.r.o          | 24971 |
+|   Prague-S03-I04   |         Master Internet s.r.o          | 24971 |
+|   Prague-S03-I05   |         Master Internet s.r.o          | 24971 |
+|    Oslo-S02-I01    |            ServeTheWorld AS            | 34989 |
+|    Oslo-S02-I02    |            ServeTheWorld AS            | 34989 |
+|    Oslo-S02-I03    |            ServeTheWorld AS            | 34989 |
+|    Oslo-S02-I04    |            ServeTheWorld AS            | 34989 |
+| Copenhagen-S01-I01 |         EasySpeedy Danmark ApS         | 30736 |
+| Copenhagen-S01-I02 |         EasySpeedy Danmark ApS         | 30736 |
+| Copenhagen-S01-I03 |         EasySpeedy Danmark ApS         | 30736 |
+| Copenhagen-S01-I04 |         EasySpeedy Danmark ApS         | 30736 |
+| Amsterdam-S04-I01  |              WorldStream               | 49981 |
+| Amsterdam-S04-I02  |              WorldStream               | 49981 |
+| Amsterdam-S04-I05  |              WorldStream               | 49981 |
+| Amsterdam-S05-I04  |              WorldStream               | 49981 |
+| Washington-S02-I01 |           Leaseweb USA, Inc.           | 30633 |
+| Washington-S02-I02 |           Leaseweb USA, Inc.           | 30633 |
+| Washington-S02-I03 |           Leaseweb USA, Inc.           | 30633 |
+| Washington-S02-I04 |           Leaseweb USA, Inc.           | 30633 |
+|  Atlanta-S01-I01   |             WestHost, Inc.             | 29854 |
+|  Atlanta-S01-I02   |             WestHost, Inc.             | 29854 |
+|  Atlanta-S01-I03   |             WestHost, Inc.             | 29854 |
+|  Atlanta-S01-I04   |             WestHost, Inc.             | 29854 |
+|   Kansas-S01-I01   |              Micfo, LLC.               | 53889 |
+|   Kansas-S01-I02   |              Micfo, LLC.               | 53889 |
+|   Kansas-S01-I03   |              Micfo, LLC.               | 53889 |
+|   Kansas-S01-I04   |              Micfo, LLC.               | 53889 |
+|   Dallas-S01-I01   |                Enzu Inc                | 18978 |
+|   Dallas-S01-I02   |                Enzu Inc                | 18978 |
+|   Dallas-S01-I03   |                Enzu Inc                | 18978 |
+|   Dallas-S01-I04   |                Enzu Inc                | 18978 |
+|  Chicago-S01-I01   |                Enzu Inc                | 18978 |
+|  Chicago-S01-I02   |                Enzu Inc                | 18978 |
+|  Chicago-S01-I03   |                Enzu Inc                | 18978 |
+|  Chicago-S01-I04   |                Enzu Inc                | 18978 |
+| Amsterdam-S06-I03  |              WorldStream               | 49981 |
+| Amsterdam-S06-I05  |              WorldStream               | 49981 |
+| Amsterdam-S07-I04  |              WorldStream               | 49981 |
+| Amsterdam-S09-I01  |              WorldStream               | 49981 |
+| Amsterdam-S09-I02  |              WorldStream               | 49981 |
+| Amsterdam-S09-I04  |              WorldStream               | 49981 |
+| Amsterdam-S09-I05  |              WorldStream               | 49981 |
+| Amsterdam-S08-I01  |              WorldStream               | 49981 |
+| Amsterdam-S08-I02  |              WorldStream               | 49981 |
+| Amsterdam-S08-I03  |              WorldStream               | 49981 |
+| Amsterdam-S08-I04  |              WorldStream               | 49981 |
+| Amsterdam-S08-I05  |              WorldStream               | 49981 |
+|   London-S05-I01   |           Redstation Limited           | 35662 |
+|   London-S05-I02   |           Redstation Limited           | 35662 |
+|   London-S05-I03   |           Redstation Limited           | 35662 |
+|   London-S05-I04   |           Redstation Limited           | 35662 |
+|   London-S05-I05   |           Redstation Limited           | 35662 |
+|   London-S06-I01   |           Redstation Limited           | 35662 |
+|   London-S06-I02   |           Redstation Limited           | 35662 |
+|   London-S06-I03   |           Redstation Limited           | 35662 |
+|   London-S06-I04   |           Redstation Limited           | 35662 |
+|   London-S06-I05   |           Redstation Limited           | 35662 |
+|   Paris-S02-I01    |                OVH SAS                 | 16276 |
+|   Paris-S02-I02    |                OVH SAS                 | 16276 |
+|   Paris-S02-I03    |                OVH SAS                 | 16276 |
+|   Paris-S02-I04    |                OVH SAS                 | 16276 |
+|   Paris-S02-I05    |                OVH SAS                 | 16276 |
+|   Miami-S01-I01    |            Voxility S.R.L.             |  3223 |
+|   Miami-S01-I02    |            Voxility S.R.L.             |  3223 |
+|   Miami-S01-I03    |            Voxility S.R.L.             |  3223 |
+|   Miami-S01-I04    |            Voxility S.R.L.             |  3223 |
+|   Miami-S01-I05    |            Voxility S.R.L.             |  3223 |
+|   Miami-S01-I06    |            Voxility S.R.L.             |  3223 |
+|   Miami-S01-I07    |            Voxility S.R.L.             |  3223 |
+|   Miami-S01-I08    |            Voxility S.R.L.             |  3223 |
+| Bucharest-S07-I01  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S07-I02  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S07-I03  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S07-I04  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S07-I05  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S07-I06  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S07-I07  |            Voxility S.R.L.             | 39743 |
+| Bucharest-S07-I08  |            Voxility S.R.L.             | 39743 |
+|  NewYork-S10-I01   |             Data Room, Inc             | 19624 |
+|  NewYork-S10-I02   |             Data Room, Inc             | 19624 |
+|  NewYork-S10-I03   |             Data Room, Inc             | 19624 |
+|  NewYork-S10-I04   |             Data Room, Inc             | 19624 |
+|   Paris-S03-I01    |             ONLINE S.A.S.              | 12876 |
+|   Paris-S03-I02    |             ONLINE S.A.S.              | 12876 |
+|   London-S07-I01   |           Redstation Limited           | 35662 |
+|   London-S07-I02   |           Redstation Limited           | 35662 |
+|   London-S07-I03   |           Redstation Limited           | 35662 |
+|   London-S07-I04   |           Redstation Limited           | 35662 |
+|   Paris-S03-I03    |             ONLINE S.A.S.              | 12876 |
+|   Paris-S03-I04    |             ONLINE S.A.S.              | 12876 |
+|   Paris-S03-I05    |             ONLINE S.A.S.              | 12876 |
++--------------------+----------------------------------------+-------+
